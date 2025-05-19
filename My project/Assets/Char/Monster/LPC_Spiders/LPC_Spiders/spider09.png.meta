@@ -1,0 +1,1274 @@
+fileFormatVersion: 2
+guid: 4950d7c4cc34ee24c8fd4791de651ba0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7577525687707455046
+    second: spider09_0
+  - first:
+      213: -2257428241365858111
+    second: spider09_1
+  - first:
+      213: -7295144347667292487
+    second: spider09_2
+  - first:
+      213: -2491663597075685967
+    second: spider09_3
+  - first:
+      213: -1656173491856323896
+    second: spider09_4
+  - first:
+      213: 1842935296156906054
+    second: spider09_5
+  - first:
+      213: 1462460776999982247
+    second: spider09_6
+  - first:
+      213: 4179731058913096483
+    second: spider09_7
+  - first:
+      213: -4144116786417938538
+    second: spider09_8
+  - first:
+      213: -7088088226966878899
+    second: spider09_9
+  - first:
+      213: 8555700656988125120
+    second: spider09_10
+  - first:
+      213: 3938990450946399197
+    second: spider09_11
+  - first:
+      213: 3136346975214326792
+    second: spider09_12
+  - first:
+      213: 7215745844768174621
+    second: spider09_13
+  - first:
+      213: -6969326484008266603
+    second: spider09_14
+  - first:
+      213: 2545667578660655371
+    second: spider09_15
+  - first:
+      213: 9166870161778209683
+    second: spider09_16
+  - first:
+      213: 6806130252308216134
+    second: spider09_17
+  - first:
+      213: 2394312643126228602
+    second: spider09_18
+  - first:
+      213: -4216735980404152843
+    second: spider09_19
+  - first:
+      213: 1642931818400663192
+    second: spider09_20
+  - first:
+      213: -369849836935859231
+    second: spider09_21
+  - first:
+      213: -6424277942662513710
+    second: spider09_22
+  - first:
+      213: -1073484433288211532
+    second: spider09_23
+  - first:
+      213: -7909721927727848209
+    second: spider09_24
+  - first:
+      213: 4452428442071470912
+    second: spider09_25
+  - first:
+      213: 5187443590105442922
+    second: spider09_26
+  - first:
+      213: -5137965598741166886
+    second: spider09_27
+  - first:
+      213: 3819401709692109008
+    second: spider09_28
+  - first:
+      213: -5636890051919980156
+    second: spider09_29
+  - first:
+      213: 192376879709629050
+    second: spider09_30
+  - first:
+      213: 446227291065588057
+    second: spider09_31
+  - first:
+      213: 1929038341133926920
+    second: spider09_32
+  - first:
+      213: -5025392455739885798
+    second: spider09_33
+  - first:
+      213: -2251120257442097268
+    second: spider09_34
+  - first:
+      213: -7835206727774916640
+    second: spider09_35
+  - first:
+      213: 1736235398315333262
+    second: spider09_36
+  - first:
+      213: 5762721753519624175
+    second: spider09_37
+  - first:
+      213: 7263279008447877484
+    second: spider09_38
+  - first:
+      213: -8194732312864542800
+    second: spider09_39
+  - first:
+      213: 5487571835415414546
+    second: spider09_40
+  - first:
+      213: 1489077008007920112
+    second: spider09_41
+  - first:
+      213: -142535341899315935
+    second: spider09_42
+  - first:
+      213: -8551527797499637205
+    second: spider09_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spider09_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 268
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1bcc3d88837d690800000000000000
+      internalID: -7577525687707455046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 271
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8047f89f00ca0e0800000000000000
+      internalID: -2257428241365858111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 272
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be971cfdd072ca90800000000000000
+      internalID: -7295144347667292487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 270
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd188ce825db6dd0800000000000000
+      internalID: -2491663597075685967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 268
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca4c73ebf61409e0800000000000000
+      internalID: -1656173491856323896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 267
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642367733eb639910800000000000000
+      internalID: 1842935296156906054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_6
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 268
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a496070454bb4410800000000000000
+      internalID: 1462460776999982247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_7
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 268
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323be2fb043610a30800000000000000
+      internalID: 4179731058913096483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_8
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 267
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f43dd3db32d76c0800000000000000
+      internalID: -4144116786417938538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_9
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 268
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45c207df4d02ad90800000000000000
+      internalID: -7088088226966878899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 203
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c77a50ea64fbb670800000000000000
+      internalID: 8555700656988125120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 203
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbd05a02fa1aa630800000000000000
+      internalID: 3938990450946399197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_12
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 203
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8045506f4fa868b20800000000000000
+      internalID: 3136346975214326792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_13
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 203
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1278ea7d9a732460800000000000000
+      internalID: 7215745844768174621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_14
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 204
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59417f4ec7af74f90800000000000000
+      internalID: -6969326484008266603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_15
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 204
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b011c4edc27045320800000000000000
+      internalID: 2545667578660655371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_16
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 204
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393faee08d3473f70800000000000000
+      internalID: 9166870161778209683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_17
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 204
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649fedf676b347e50800000000000000
+      internalID: 6806130252308216134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_18
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 205
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76f3cec9ae4a3120800000000000000
+      internalID: 2394312643126228602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_19
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 204
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5e66097f42b75c0800000000000000
+      internalID: -4216735980404152843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 141
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89645f1c8cddcc610800000000000000
+      internalID: 1642931818400663192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_21
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 136
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3b33968870edaf0800000000000000
+      internalID: -369849836935859231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_22
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 136
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db39399f3168d6a0800000000000000
+      internalID: -6424277942662513710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_23
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 140
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3d1f178973a11f0800000000000000
+      internalID: -1073484433288211532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_24
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 138
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4e9a170d50b3290800000000000000
+      internalID: -7909721927727848209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_25
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 135
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043148df3143acd30800000000000000
+      internalID: 4452428442071470912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_26
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 138
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6aac9006708df740800000000000000
+      internalID: 5187443590105442922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_27
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 138
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad40bd2928742b8b0800000000000000
+      internalID: -5137965598741166886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_28
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 135
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0c7b07e9d310530800000000000000
+      internalID: 3819401709692109008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_29
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 138
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48950610d5eb5c1b0800000000000000
+      internalID: -5636890051919980156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 75
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a271ab0c57ba200800000000000000
+      internalID: 192376879709629050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 75
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9599c056b51513600800000000000000
+      internalID: 446227291065588057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_32
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 75
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8028569962255ca10800000000000000
+      internalID: 1929038341133926920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_33
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 75
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1732baef28324ab0800000000000000
+      internalID: -5025392455739885798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_34
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 76
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c875a748d0a62c0e0800000000000000
+      internalID: -2251120257442097268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_35
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 77
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efa9396ef0c34390800000000000000
+      internalID: -7835206727774916640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_36
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 76
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e865b0355e8581810800000000000000
+      internalID: 1736235398315333262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_37
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 76
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef04f117ec49ff40800000000000000
+      internalID: 5762721753519624175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_38
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 76
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61561396c95cc460800000000000000
+      internalID: 7263279008447877484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_39
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 76
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf2b460166764e80800000000000000
+      internalID: -8194732312864542800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 13
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217cf598285c72c40800000000000000
+      internalID: 5487571835415414546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_41
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 17
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9738936a34aa410800000000000000
+      internalID: 1489077008007920112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_42
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 22
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125072a9cdc950ef0800000000000000
+      internalID: -142535341899315935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider09_43
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 19
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22d72fa6ced25980800000000000000
+      internalID: -8551527797499637205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spider09_0: -7577525687707455046
+      spider09_1: -2257428241365858111
+      spider09_10: 8555700656988125120
+      spider09_11: 3938990450946399197
+      spider09_12: 3136346975214326792
+      spider09_13: 7215745844768174621
+      spider09_14: -6969326484008266603
+      spider09_15: 2545667578660655371
+      spider09_16: 9166870161778209683
+      spider09_17: 6806130252308216134
+      spider09_18: 2394312643126228602
+      spider09_19: -4216735980404152843
+      spider09_2: -7295144347667292487
+      spider09_20: 1642931818400663192
+      spider09_21: -369849836935859231
+      spider09_22: -6424277942662513710
+      spider09_23: -1073484433288211532
+      spider09_24: -7909721927727848209
+      spider09_25: 4452428442071470912
+      spider09_26: 5187443590105442922
+      spider09_27: -5137965598741166886
+      spider09_28: 3819401709692109008
+      spider09_29: -5636890051919980156
+      spider09_3: -2491663597075685967
+      spider09_30: 192376879709629050
+      spider09_31: 446227291065588057
+      spider09_32: 1929038341133926920
+      spider09_33: -5025392455739885798
+      spider09_34: -2251120257442097268
+      spider09_35: -7835206727774916640
+      spider09_36: 1736235398315333262
+      spider09_37: 5762721753519624175
+      spider09_38: 7263279008447877484
+      spider09_39: -8194732312864542800
+      spider09_4: -1656173491856323896
+      spider09_40: 5487571835415414546
+      spider09_41: 1489077008007920112
+      spider09_42: -142535341899315935
+      spider09_43: -8551527797499637205
+      spider09_5: 1842935296156906054
+      spider09_6: 1462460776999982247
+      spider09_7: 4179731058913096483
+      spider09_8: -4144116786417938538
+      spider09_9: -7088088226966878899
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

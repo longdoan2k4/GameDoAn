@@ -1,0 +1,1690 @@
+fileFormatVersion: 2
+guid: 8f3da6a4f56ab0545ae443ed69868449
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6798641422658001632
+    second: race-elf-hair-1_0
+  - first:
+      213: -7392886627687657416
+    second: race-elf-hair-1_1
+  - first:
+      213: 5609510800467183727
+    second: race-elf-hair-1_2
+  - first:
+      213: -9010664235360253739
+    second: race-elf-hair-1_3
+  - first:
+      213: -1340008988211118161
+    second: race-elf-hair-1_4
+  - first:
+      213: -5152349635687694234
+    second: race-elf-hair-1_5
+  - first:
+      213: -2936832284204780778
+    second: race-elf-hair-1_6
+  - first:
+      213: 3322179629924072374
+    second: race-elf-hair-1_7
+  - first:
+      213: -1247087520568643277
+    second: race-elf-hair-1_8
+  - first:
+      213: -4332609793816286637
+    second: race-elf-hair-1_9
+  - first:
+      213: -342171323753406467
+    second: race-elf-hair-1_10
+  - first:
+      213: 4035167648335361595
+    second: race-elf-hair-1_11
+  - first:
+      213: -4671388199482072211
+    second: race-elf-hair-1_12
+  - first:
+      213: -4999071522522618637
+    second: race-elf-hair-1_13
+  - first:
+      213: 9117162700810272519
+    second: race-elf-hair-1_14
+  - first:
+      213: -1130714388596118870
+    second: race-elf-hair-1_15
+  - first:
+      213: -1068902991767357448
+    second: race-elf-hair-1_16
+  - first:
+      213: -5205324515189430827
+    second: race-elf-hair-1_17
+  - first:
+      213: -2346580984071754034
+    second: race-elf-hair-1_18
+  - first:
+      213: 125152442154407131
+    second: race-elf-hair-1_19
+  - first:
+      213: 5581511563645746616
+    second: race-elf-hair-1_20
+  - first:
+      213: -219722596275527073
+    second: race-elf-hair-1_21
+  - first:
+      213: 7718391053551390247
+    second: race-elf-hair-1_22
+  - first:
+      213: 4992330932751321665
+    second: race-elf-hair-1_23
+  - first:
+      213: 7691290548541734715
+    second: race-elf-hair-1_24
+  - first:
+      213: 4378811501833262978
+    second: race-elf-hair-1_25
+  - first:
+      213: 5958696739852553104
+    second: race-elf-hair-1_26
+  - first:
+      213: 1841849846428072305
+    second: race-elf-hair-1_27
+  - first:
+      213: 8320911545946763880
+    second: race-elf-hair-1_28
+  - first:
+      213: -5305690121746296926
+    second: race-elf-hair-1_29
+  - first:
+      213: -4079110337134410724
+    second: race-elf-hair-1_30
+  - first:
+      213: 43028315926313604
+    second: race-elf-hair-1_31
+  - first:
+      213: 3241114367821258660
+    second: race-elf-hair-1_32
+  - first:
+      213: -8636761867454797647
+    second: race-elf-hair-1_33
+  - first:
+      213: -6638895929581315347
+    second: race-elf-hair-1_34
+  - first:
+      213: -2105365308998080195
+    second: race-elf-hair-1_35
+  - first:
+      213: -762880564699514366
+    second: race-elf-hair-1_36
+  - first:
+      213: -7046336118191787887
+    second: race-elf-hair-1_37
+  - first:
+      213: 5741635377332656701
+    second: race-elf-hair-1_38
+  - first:
+      213: 6100903426691200943
+    second: race-elf-hair-1_39
+  - first:
+      213: -5117081625532521854
+    second: race-elf-hair-1_40
+  - first:
+      213: -8034392778060017304
+    second: race-elf-hair-1_41
+  - first:
+      213: 3087742622029644163
+    second: race-elf-hair-1_42
+  - first:
+      213: -6888176903069267279
+    second: race-elf-hair-1_43
+  - first:
+      213: -8972797902650025711
+    second: race-elf-hair-1_44
+  - first:
+      213: -4140393711137190626
+    second: race-elf-hair-1_45
+  - first:
+      213: -5891549100318995340
+    second: race-elf-hair-1_46
+  - first:
+      213: 8335395694101234962
+    second: race-elf-hair-1_47
+  - first:
+      213: 4471684686478252333
+    second: race-elf-hair-1_48
+  - first:
+      213: -1781374672307451759
+    second: race-elf-hair-1_49
+  - first:
+      213: 2084927028393367331
+    second: race-elf-hair-1_50
+  - first:
+      213: 8934326190604387848
+    second: race-elf-hair-1_51
+  - first:
+      213: -3252349390982529028
+    second: race-elf-hair-1_52
+  - first:
+      213: -4225054015222464267
+    second: race-elf-hair-1_53
+  - first:
+      213: -2931955992969657734
+    second: race-elf-hair-1_54
+  - first:
+      213: -288959604700875369
+    second: race-elf-hair-1_55
+  - first:
+      213: -2081227614666253182
+    second: race-elf-hair-1_56
+  - first:
+      213: -2023444013458248671
+    second: race-elf-hair-1_57
+  - first:
+      213: 1636598814202598455
+    second: race-elf-hair-1_58
+  - first:
+      213: -2956274711969975349
+    second: race-elf-hair-1_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: race-elf-hair-1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 145
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025a63795af56a1a0800000000000000
+      internalID: -6798641422658001632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 121
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83011f308c0376990800000000000000
+      internalID: -7392886627687657416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 122
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6840914a5cf8dd40800000000000000
+      internalID: 5609510800467183727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 121
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d809055e90b3f280800000000000000
+      internalID: -9010664235360253739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf78d5cce4576de0800000000000000
+      internalID: -1340008988211118161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 101
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660c83efd4d2f78b0800000000000000
+      internalID: -5152349635687694234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 100
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6133317f8964e37d0800000000000000
+      internalID: -2936832284204780778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 100
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbb9a195c0ca1e20800000000000000
+      internalID: 3322179629924072374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 101
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331fea4e18471bee0800000000000000
+      internalID: -1247087520568643277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 100
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35aa331095a7fd3c0800000000000000
+      internalID: -4332609793816286637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 100
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff5a537efc504bf0800000000000000
+      internalID: -342171323753406467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 101
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b367d20d89bcff730800000000000000
+      internalID: 4035167648335361595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 100
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d636be1ce25eb2fb0800000000000000
+      internalID: -4671388199482072211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_13
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 100
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4a44dbfeabf9ab0800000000000000
+      internalID: -4999071522522618637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_14
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 101
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fbc3deb2ba68e70800000000000000
+      internalID: 9117162700810272519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_15
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 100
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa2e4d1145ee40f0800000000000000
+      internalID: -1130714388596118870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7ba5c646e7a21f0800000000000000
+      internalID: -1068902991767357448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 85
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d56083bee8f2c7b0800000000000000
+      internalID: -5205324515189430827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_18
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 84
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece67b717054f6fd0800000000000000
+      internalID: -2346580984071754034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_19
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 84
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4d269ab71acb100800000000000000
+      internalID: 125152442154407131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_20
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 85
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdf6dce133857d40800000000000000
+      internalID: 5581511563645746616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_21
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 84
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52eedb767363fcf0800000000000000
+      internalID: -219722596275527073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_22
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 84
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ecb78f4cb3d1b60800000000000000
+      internalID: 7718391053551390247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_23
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 85
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a46d76882584540800000000000000
+      internalID: 4992330932751321665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_24
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 84
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f3622f004fcba60800000000000000
+      internalID: 7691290548541734715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 84
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2879a296cd9a4cc30800000000000000
+      internalID: 4378811501833262978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 85
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b80374d1b81b250800000000000000
+      internalID: 5958696739852553104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 84
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179f3f14da09f8910800000000000000
+      internalID: 1841849846428072305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 145
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8627a9707f0d97370800000000000000
+      internalID: 8320911545946763880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 68
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af430de1f66e56b0800000000000000
+      internalID: -5305690121746296926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 69
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14ca7ba2c61467c0800000000000000
+      internalID: -4079110337134410724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_31
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 68
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a321e760ed89000800000000000000
+      internalID: 43028315926313604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 192
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af966a6850cafc20800000000000000
+      internalID: 3241114367821258660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_33
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 49
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8a7b057de042880800000000000000
+      internalID: -8636761867454797647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_34
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 49
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dead4809357edd3a0800000000000000
+      internalID: -6638895929581315347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d392dbaf76d38c2e0800000000000000
+      internalID: -2105365308998080195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 34
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a39071b24b965f0800000000000000
+      internalID: -762880564699514366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1907c2332a2663e90800000000000000
+      internalID: -7046336118191787887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_38
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 33
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a9ab784f26eaf40800000000000000
+      internalID: 5741635377332656701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_39
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 34
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa774e4b753caa450800000000000000
+      internalID: 6100903426691200943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_40
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 33
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282a47f7f597cf8b0800000000000000
+      internalID: -5117081625532521854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 33
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861d4cd165a108090800000000000000
+      internalID: -8034392778060017304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_42
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 34
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38109ef1e8dd9da20800000000000000
+      internalID: 3087742622029644163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 33
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba818e0a974860a0800000000000000
+      internalID: -6888176903069267279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_44
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 33
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119dc23f8d73a7380800000000000000
+      internalID: -8972797902650025711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 34
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d08614bdd5a86c0800000000000000
+      internalID: -4140393711137190626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_46
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 33
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cc6bade430d3ea0800000000000000
+      internalID: -5891549100318995340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215893198364da370800000000000000
+      internalID: 8335395694101234962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_48
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 18
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d291715c78d9e0e30800000000000000
+      internalID: 4471684686478252333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_49
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 17
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1988c357c294747e0800000000000000
+      internalID: -1781374672307451759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_50
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 17
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3275ffdf5162fec10800000000000000
+      internalID: 2084927028393367331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_51
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 18
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8068172955a1dfb70800000000000000
+      internalID: 8934326190604387848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_52
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 17
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff3709e5755dd2d0800000000000000
+      internalID: -3252349390982529028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_53
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 17
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0c3d922c79d55c0800000000000000
+      internalID: -4225054015222464267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_54
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 18
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7247fdfe899f47d0800000000000000
+      internalID: -2931955992969657734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_55
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 17
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795fd5f35c86dfbf0800000000000000
+      internalID: -288959604700875369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_56
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 17
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c9513e28efd13e0800000000000000
+      internalID: -2081227614666253182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_57
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 18
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c2ee2f3684be3e0800000000000000
+      internalID: -2023444013458248671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_58
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 17
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7341f5053fd56b610800000000000000
+      internalID: 1636598814202598455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-elf-hair-1_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc33f8effc339f6d0800000000000000
+      internalID: -2956274711969975349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      race-elf-hair-1_0: -6798641422658001632
+      race-elf-hair-1_1: -7392886627687657416
+      race-elf-hair-1_10: -342171323753406467
+      race-elf-hair-1_11: 4035167648335361595
+      race-elf-hair-1_12: -4671388199482072211
+      race-elf-hair-1_13: -4999071522522618637
+      race-elf-hair-1_14: 9117162700810272519
+      race-elf-hair-1_15: -1130714388596118870
+      race-elf-hair-1_16: -1068902991767357448
+      race-elf-hair-1_17: -5205324515189430827
+      race-elf-hair-1_18: -2346580984071754034
+      race-elf-hair-1_19: 125152442154407131
+      race-elf-hair-1_2: 5609510800467183727
+      race-elf-hair-1_20: 5581511563645746616
+      race-elf-hair-1_21: -219722596275527073
+      race-elf-hair-1_22: 7718391053551390247
+      race-elf-hair-1_23: 4992330932751321665
+      race-elf-hair-1_24: 7691290548541734715
+      race-elf-hair-1_25: 4378811501833262978
+      race-elf-hair-1_26: 5958696739852553104
+      race-elf-hair-1_27: 1841849846428072305
+      race-elf-hair-1_28: 8320911545946763880
+      race-elf-hair-1_29: -5305690121746296926
+      race-elf-hair-1_3: -9010664235360253739
+      race-elf-hair-1_30: -4079110337134410724
+      race-elf-hair-1_31: 43028315926313604
+      race-elf-hair-1_32: 3241114367821258660
+      race-elf-hair-1_33: -8636761867454797647
+      race-elf-hair-1_34: -6638895929581315347
+      race-elf-hair-1_35: -2105365308998080195
+      race-elf-hair-1_36: -762880564699514366
+      race-elf-hair-1_37: -7046336118191787887
+      race-elf-hair-1_38: 5741635377332656701
+      race-elf-hair-1_39: 6100903426691200943
+      race-elf-hair-1_4: -1340008988211118161
+      race-elf-hair-1_40: -5117081625532521854
+      race-elf-hair-1_41: -8034392778060017304
+      race-elf-hair-1_42: 3087742622029644163
+      race-elf-hair-1_43: -6888176903069267279
+      race-elf-hair-1_44: -8972797902650025711
+      race-elf-hair-1_45: -4140393711137190626
+      race-elf-hair-1_46: -5891549100318995340
+      race-elf-hair-1_47: 8335395694101234962
+      race-elf-hair-1_48: 4471684686478252333
+      race-elf-hair-1_49: -1781374672307451759
+      race-elf-hair-1_5: -5152349635687694234
+      race-elf-hair-1_50: 2084927028393367331
+      race-elf-hair-1_51: 8934326190604387848
+      race-elf-hair-1_52: -3252349390982529028
+      race-elf-hair-1_53: -4225054015222464267
+      race-elf-hair-1_54: -2931955992969657734
+      race-elf-hair-1_55: -288959604700875369
+      race-elf-hair-1_56: -2081227614666253182
+      race-elf-hair-1_57: -2023444013458248671
+      race-elf-hair-1_58: 1636598814202598455
+      race-elf-hair-1_59: -2956274711969975349
+      race-elf-hair-1_6: -2936832284204780778
+      race-elf-hair-1_7: 3322179629924072374
+      race-elf-hair-1_8: -1247087520568643277
+      race-elf-hair-1_9: -4332609793816286637
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

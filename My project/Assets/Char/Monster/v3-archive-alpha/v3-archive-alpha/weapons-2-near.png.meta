@@ -1,0 +1,5200 @@
+fileFormatVersion: 2
+guid: b4ef3349263834e46a21d60823e7689e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7412762515379495779
+    second: weapons-2-near_0
+  - first:
+      213: -532123591568609258
+    second: weapons-2-near_1
+  - first:
+      213: 5129426434891937269
+    second: weapons-2-near_2
+  - first:
+      213: -5955893425640715699
+    second: weapons-2-near_3
+  - first:
+      213: 1256165830489990839
+    second: weapons-2-near_4
+  - first:
+      213: 2398068986264244588
+    second: weapons-2-near_5
+  - first:
+      213: 5041812311958945155
+    second: weapons-2-near_6
+  - first:
+      213: -6092189566820111239
+    second: weapons-2-near_7
+  - first:
+      213: -4768679039787471849
+    second: weapons-2-near_8
+  - first:
+      213: -2991764158433641349
+    second: weapons-2-near_9
+  - first:
+      213: 3939469864229069127
+    second: weapons-2-near_10
+  - first:
+      213: 5965666530100939086
+    second: weapons-2-near_11
+  - first:
+      213: -7209905693470505617
+    second: weapons-2-near_12
+  - first:
+      213: -6808304459767565606
+    second: weapons-2-near_13
+  - first:
+      213: 2988588218142591799
+    second: weapons-2-near_14
+  - first:
+      213: -7603515169541938150
+    second: weapons-2-near_15
+  - first:
+      213: 6482955074080141092
+    second: weapons-2-near_16
+  - first:
+      213: -6066555040798499576
+    second: weapons-2-near_17
+  - first:
+      213: -4340301790935311626
+    second: weapons-2-near_18
+  - first:
+      213: -7379478166217687527
+    second: weapons-2-near_19
+  - first:
+      213: -1571878350020649201
+    second: weapons-2-near_20
+  - first:
+      213: -4091771818642992344
+    second: weapons-2-near_21
+  - first:
+      213: 1315098064919254811
+    second: weapons-2-near_22
+  - first:
+      213: -5349065455010367600
+    second: weapons-2-near_23
+  - first:
+      213: 865919550593342965
+    second: weapons-2-near_24
+  - first:
+      213: -3053370360833717378
+    second: weapons-2-near_25
+  - first:
+      213: 1502839077741375520
+    second: weapons-2-near_26
+  - first:
+      213: 4072132534327834977
+    second: weapons-2-near_27
+  - first:
+      213: -6267696728051581770
+    second: weapons-2-near_28
+  - first:
+      213: -7984319288521386057
+    second: weapons-2-near_29
+  - first:
+      213: -2896755469543390548
+    second: weapons-2-near_30
+  - first:
+      213: -5073909265714377298
+    second: weapons-2-near_31
+  - first:
+      213: -5493839767915690895
+    second: weapons-2-near_32
+  - first:
+      213: -3494967699357651522
+    second: weapons-2-near_33
+  - first:
+      213: 3058769284617707706
+    second: weapons-2-near_34
+  - first:
+      213: 5548321935386776276
+    second: weapons-2-near_35
+  - first:
+      213: 4636886098210883894
+    second: weapons-2-near_36
+  - first:
+      213: 2180056696831752847
+    second: weapons-2-near_37
+  - first:
+      213: -4243204425290775640
+    second: weapons-2-near_38
+  - first:
+      213: 4944925506365965470
+    second: weapons-2-near_39
+  - first:
+      213: -358463678272326817
+    second: weapons-2-near_40
+  - first:
+      213: 8325783846993119721
+    second: weapons-2-near_41
+  - first:
+      213: 8250185777629567937
+    second: weapons-2-near_42
+  - first:
+      213: 7208046453512961233
+    second: weapons-2-near_43
+  - first:
+      213: 2786503852982415658
+    second: weapons-2-near_44
+  - first:
+      213: 6654247080110675496
+    second: weapons-2-near_45
+  - first:
+      213: -594170271227149747
+    second: weapons-2-near_46
+  - first:
+      213: 3123523930679559771
+    second: weapons-2-near_47
+  - first:
+      213: -2438053851819599022
+    second: weapons-2-near_48
+  - first:
+      213: -867819905432065499
+    second: weapons-2-near_49
+  - first:
+      213: -8302357189992705378
+    second: weapons-2-near_50
+  - first:
+      213: -853548403735772948
+    second: weapons-2-near_51
+  - first:
+      213: 7016822016974410508
+    second: weapons-2-near_52
+  - first:
+      213: 7958158268897140451
+    second: weapons-2-near_53
+  - first:
+      213: -2930331349194116343
+    second: weapons-2-near_54
+  - first:
+      213: -7184113644378373336
+    second: weapons-2-near_55
+  - first:
+      213: -6220624008949463782
+    second: weapons-2-near_56
+  - first:
+      213: 2765491982265022649
+    second: weapons-2-near_57
+  - first:
+      213: -6223566906798477542
+    second: weapons-2-near_58
+  - first:
+      213: 2190032129270204618
+    second: weapons-2-near_59
+  - first:
+      213: -2858919755917761130
+    second: weapons-2-near_60
+  - first:
+      213: -863623099429565823
+    second: weapons-2-near_61
+  - first:
+      213: -8561922444518235604
+    second: weapons-2-near_62
+  - first:
+      213: -2622106927051849978
+    second: weapons-2-near_63
+  - first:
+      213: -394909797911990624
+    second: weapons-2-near_64
+  - first:
+      213: 2997666417429510041
+    second: weapons-2-near_65
+  - first:
+      213: -1165920834816308238
+    second: weapons-2-near_66
+  - first:
+      213: -4874346543387090873
+    second: weapons-2-near_67
+  - first:
+      213: -8749085962369548421
+    second: weapons-2-near_68
+  - first:
+      213: -6234230646584850555
+    second: weapons-2-near_69
+  - first:
+      213: 4939921588517136509
+    second: weapons-2-near_70
+  - first:
+      213: 3409256377858793737
+    second: weapons-2-near_71
+  - first:
+      213: 5026425006352021700
+    second: weapons-2-near_72
+  - first:
+      213: 3052082527092374794
+    second: weapons-2-near_73
+  - first:
+      213: -1571319106147524298
+    second: weapons-2-near_74
+  - first:
+      213: 5256721720428178774
+    second: weapons-2-near_75
+  - first:
+      213: -8795898219923989511
+    second: weapons-2-near_76
+  - first:
+      213: 8926556871713337413
+    second: weapons-2-near_77
+  - first:
+      213: -7648194970074331863
+    second: weapons-2-near_78
+  - first:
+      213: 5619864331748481772
+    second: weapons-2-near_79
+  - first:
+      213: -6610282796962146646
+    second: weapons-2-near_80
+  - first:
+      213: -7179878418720207767
+    second: weapons-2-near_81
+  - first:
+      213: -264676126434886586
+    second: weapons-2-near_82
+  - first:
+      213: 6088063858263434267
+    second: weapons-2-near_83
+  - first:
+      213: 3751946330075476528
+    second: weapons-2-near_84
+  - first:
+      213: -9192781158362671516
+    second: weapons-2-near_85
+  - first:
+      213: 3900124960143869297
+    second: weapons-2-near_86
+  - first:
+      213: -3153811307298293427
+    second: weapons-2-near_87
+  - first:
+      213: -4722794940129634346
+    second: weapons-2-near_88
+  - first:
+      213: 1154138494671783253
+    second: weapons-2-near_89
+  - first:
+      213: 8450441953633381159
+    second: weapons-2-near_90
+  - first:
+      213: 198660813957063498
+    second: weapons-2-near_91
+  - first:
+      213: 9200780264976275335
+    second: weapons-2-near_92
+  - first:
+      213: 8252766843602803407
+    second: weapons-2-near_93
+  - first:
+      213: -546457303811185356
+    second: weapons-2-near_94
+  - first:
+      213: -2032845752553887866
+    second: weapons-2-near_95
+  - first:
+      213: 7741401717329691232
+    second: weapons-2-near_96
+  - first:
+      213: -8791631067260283916
+    second: weapons-2-near_97
+  - first:
+      213: -2005535660337072551
+    second: weapons-2-near_98
+  - first:
+      213: 9187799076046302025
+    second: weapons-2-near_99
+  - first:
+      213: 1386668995646952410
+    second: weapons-2-near_100
+  - first:
+      213: -3827954749248275617
+    second: weapons-2-near_101
+  - first:
+      213: 5905667252007715263
+    second: weapons-2-near_102
+  - first:
+      213: 7149499834503830720
+    second: weapons-2-near_103
+  - first:
+      213: -2735802533106395668
+    second: weapons-2-near_104
+  - first:
+      213: 8374325179522901719
+    second: weapons-2-near_105
+  - first:
+      213: 6755227307460555925
+    second: weapons-2-near_106
+  - first:
+      213: -3888831168196262924
+    second: weapons-2-near_107
+  - first:
+      213: 7280757370370072392
+    second: weapons-2-near_108
+  - first:
+      213: 4512100861084178550
+    second: weapons-2-near_109
+  - first:
+      213: -953357785090165942
+    second: weapons-2-near_110
+  - first:
+      213: -2375527559887111662
+    second: weapons-2-near_111
+  - first:
+      213: -6907818391485685860
+    second: weapons-2-near_112
+  - first:
+      213: 6697225724751773842
+    second: weapons-2-near_113
+  - first:
+      213: 6237862067819795877
+    second: weapons-2-near_114
+  - first:
+      213: 7468877676983927076
+    second: weapons-2-near_115
+  - first:
+      213: -8398170015999564446
+    second: weapons-2-near_116
+  - first:
+      213: 4990206664061701169
+    second: weapons-2-near_117
+  - first:
+      213: -3712113964308936856
+    second: weapons-2-near_118
+  - first:
+      213: 4454795991245111984
+    second: weapons-2-near_119
+  - first:
+      213: -3057937477539675165
+    second: weapons-2-near_120
+  - first:
+      213: -8656798438503523093
+    second: weapons-2-near_121
+  - first:
+      213: 3037744692298159122
+    second: weapons-2-near_122
+  - first:
+      213: -9032271973721858693
+    second: weapons-2-near_123
+  - first:
+      213: 4040554929729139968
+    second: weapons-2-near_124
+  - first:
+      213: 5292736603016889221
+    second: weapons-2-near_125
+  - first:
+      213: 5911241821834718070
+    second: weapons-2-near_126
+  - first:
+      213: 7736247656275725090
+    second: weapons-2-near_127
+  - first:
+      213: -5462373560592178522
+    second: weapons-2-near_128
+  - first:
+      213: 3824748482835510949
+    second: weapons-2-near_129
+  - first:
+      213: 4861746987524314958
+    second: weapons-2-near_130
+  - first:
+      213: -4780943764463803010
+    second: weapons-2-near_131
+  - first:
+      213: 6405754719486277894
+    second: weapons-2-near_132
+  - first:
+      213: -7051185642928487531
+    second: weapons-2-near_133
+  - first:
+      213: 6414247419581497510
+    second: weapons-2-near_134
+  - first:
+      213: 7007663913006243911
+    second: weapons-2-near_135
+  - first:
+      213: -7183527093895831467
+    second: weapons-2-near_136
+  - first:
+      213: -6629720871430516051
+    second: weapons-2-near_137
+  - first:
+      213: 8944525331453898576
+    second: weapons-2-near_138
+  - first:
+      213: 8554262518453233840
+    second: weapons-2-near_139
+  - first:
+      213: 8985747467831965149
+    second: weapons-2-near_140
+  - first:
+      213: 4579746395913275659
+    second: weapons-2-near_141
+  - first:
+      213: -2358818257940538376
+    second: weapons-2-near_142
+  - first:
+      213: -1038648211738250167
+    second: weapons-2-near_143
+  - first:
+      213: -3981865894179233734
+    second: weapons-2-near_144
+  - first:
+      213: -865860652458062030
+    second: weapons-2-near_145
+  - first:
+      213: 4672083947933697368
+    second: weapons-2-near_146
+  - first:
+      213: -3202838831471163641
+    second: weapons-2-near_147
+  - first:
+      213: -4788897851424637114
+    second: weapons-2-near_148
+  - first:
+      213: 8829304592239398208
+    second: weapons-2-near_149
+  - first:
+      213: 3608711757876344380
+    second: weapons-2-near_150
+  - first:
+      213: -7134672299457642770
+    second: weapons-2-near_151
+  - first:
+      213: 696737332715049638
+    second: weapons-2-near_152
+  - first:
+      213: -1039124223992247166
+    second: weapons-2-near_153
+  - first:
+      213: 8935719309588218928
+    second: weapons-2-near_154
+  - first:
+      213: 1069525915572385367
+    second: weapons-2-near_155
+  - first:
+      213: -1301395829536262379
+    second: weapons-2-near_156
+  - first:
+      213: 1603133744105157568
+    second: weapons-2-near_157
+  - first:
+      213: -7247110582553022380
+    second: weapons-2-near_158
+  - first:
+      213: -5623452711961358242
+    second: weapons-2-near_159
+  - first:
+      213: -6808217453880041122
+    second: weapons-2-near_160
+  - first:
+      213: -1004319329936172969
+    second: weapons-2-near_161
+  - first:
+      213: -4731505991640284419
+    second: weapons-2-near_162
+  - first:
+      213: 8183957955644005022
+    second: weapons-2-near_163
+  - first:
+      213: 5999833021691285183
+    second: weapons-2-near_164
+  - first:
+      213: -367222026928690023
+    second: weapons-2-near_165
+  - first:
+      213: 7060034224004240643
+    second: weapons-2-near_166
+  - first:
+      213: -8105034181052410300
+    second: weapons-2-near_167
+  - first:
+      213: -8167237425961054151
+    second: weapons-2-near_168
+  - first:
+      213: 3640365046021569021
+    second: weapons-2-near_169
+  - first:
+      213: -1036886436137647894
+    second: weapons-2-near_170
+  - first:
+      213: -7961429631756529716
+    second: weapons-2-near_171
+  - first:
+      213: 7041468146133436103
+    second: weapons-2-near_172
+  - first:
+      213: 2905558514217538436
+    second: weapons-2-near_173
+  - first:
+      213: -9214721134582594971
+    second: weapons-2-near_174
+  - first:
+      213: 7880621054264734729
+    second: weapons-2-near_175
+  - first:
+      213: 2279842977074660915
+    second: weapons-2-near_176
+  - first:
+      213: -1631307692720280453
+    second: weapons-2-near_177
+  - first:
+      213: 2904354588206184415
+    second: weapons-2-near_178
+  - first:
+      213: 4259032773848336928
+    second: weapons-2-near_179
+  - first:
+      213: 9024534134195688496
+    second: weapons-2-near_180
+  - first:
+      213: -7396804638123879268
+    second: weapons-2-near_181
+  - first:
+      213: -7720613877864875832
+    second: weapons-2-near_182
+  - first:
+      213: 6803020055762474712
+    second: weapons-2-near_183
+  - first:
+      213: 2935366623887498859
+    second: weapons-2-near_184
+  - first:
+      213: -3908560643298093553
+    second: weapons-2-near_185
+  - first:
+      213: 6536042645394183775
+    second: weapons-2-near_186
+  - first:
+      213: -7396933975076195448
+    second: weapons-2-near_187
+  - first:
+      213: 6786673016202606792
+    second: weapons-2-near_188
+  - first:
+      213: -7589336035234924772
+    second: weapons-2-near_189
+  - first:
+      213: -7005577294619974609
+    second: weapons-2-near_190
+  - first:
+      213: -1500918077349885384
+    second: weapons-2-near_191
+  - first:
+      213: 4801372404446432977
+    second: weapons-2-near_192
+  - first:
+      213: -6413395253499986786
+    second: weapons-2-near_193
+  - first:
+      213: -1822980401081592399
+    second: weapons-2-near_194
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: weapons-2-near_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 495
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363a685bb3c6fd660800000000000000
+      internalID: 7412762515379495779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 495
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610b2fba9648d98f0800000000000000
+      internalID: -532123591568609258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 496
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f57b396a226f2740800000000000000
+      internalID: 5129426434891937269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 495
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ac99c2c7a685da0800000000000000
+      internalID: -5955893425640715699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 496
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6e659da2cce6110800000000000000
+      internalID: 1256165830489990839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 497
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6159299907a74120800000000000000
+      internalID: 2398068986264244588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 495
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38df086c59d18f540800000000000000
+      internalID: 5041812311958945155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 496
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ca855edd1347ba0800000000000000
+      internalID: -6092189566820111239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_8
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 497
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ced99cdaf32ddb0800000000000000
+      internalID: -4768679039787471849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 495
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c31d4595e1b76d0800000000000000
+      internalID: -2991764158433641349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 495
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741eab428fecba630800000000000000
+      internalID: 3939469864229069127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_11
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 496
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e498a170a1e4ac250800000000000000
+      internalID: 5965666530100939086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 464
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65cf94b8f441fb90800000000000000
+      internalID: -7209905693470505617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_13
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 465
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2b8d07a2b0481a0800000000000000
+      internalID: -6808304459767565606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_14
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 464
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b8e427629997920800000000000000
+      internalID: 2988588218142591799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_15
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 464
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14a82b0d33ea7690800000000000000
+      internalID: -7603515169541938150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 464
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fec5daa4518f950800000000000000
+      internalID: 6482955074080141092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 464
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d99d615544fcba0800000000000000
+      internalID: -6066555040798499576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_18
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 464
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa1f4d548624c3c0800000000000000
+      internalID: -4340301790935311626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_19
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 464
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ef7dab4b3d69990800000000000000
+      internalID: -7379478166217687527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_20
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 464
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f54e408f09f2ae0800000000000000
+      internalID: -1571878350020649201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 464
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82394d7c53b1737c0800000000000000
+      internalID: -4091771818642992344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_22
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 465
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17d05ce8ba204210800000000000000
+      internalID: 1315098064919254811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_23
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 464
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0973bc92f4d44c5b0800000000000000
+      internalID: -5349065455010367600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd9e215e3d540c00800000000000000
+      internalID: 865919550593342965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 432
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bccc295df30a5d0800000000000000
+      internalID: -3053370360833717378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_26
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 433
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020b957cd282bd410800000000000000
+      internalID: 1502839077741375520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 431
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169fbe207fe138830800000000000000
+      internalID: 4072132534327834977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_28
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 432
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc7b94980ba409a0800000000000000
+      internalID: -6267696728051581770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_29
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 433
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7126ae8eff13190800000000000000
+      internalID: -7984319288521386057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 431
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca242b48f38acc7d0800000000000000
+      internalID: -2896755469543390548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_31
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 432
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead0882d76ad599b0800000000000000
+      internalID: -5073909265714377298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_32
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 433
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1748874b6d5f1c3b0800000000000000
+      internalID: -5493839767915690895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_33
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 431
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebda25205616f7fc0800000000000000
+      internalID: -3494967699357651522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_34
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 432
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0a383557ee27a20800000000000000
+      internalID: 3058769284617707706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_35
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 433
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d29c3a67699ffc40800000000000000
+      internalID: 5548321935386776276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 400
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6398ecbc657895040800000000000000
+      internalID: 4636886098210883894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_37
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 401
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a3edce30e114e10800000000000000
+      internalID: 2180056696831752847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_38
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 400
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a38d218e0c1d15c0800000000000000
+      internalID: -4243204425290775640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_39
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 400
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9446b77c87ef9440800000000000000
+      internalID: 4944925506365965470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_40
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 400
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53b2bf0f2b760bf0800000000000000
+      internalID: -358463678272326817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_41
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 400
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9c5b40c402b8370800000000000000
+      internalID: 8325783846993119721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_42
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 400
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb179ed04c8e7270800000000000000
+      internalID: 8250185777629567937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_43
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 400
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc77224f00280460800000000000000
+      internalID: 7208046453512961233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_44
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 400
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a213642ad76aba620800000000000000
+      internalID: 2786503852982415658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_45
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 400
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8265da1b672a85c50800000000000000
+      internalID: 6654247080110675496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_46
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 400
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42886f494511c7f0800000000000000
+      internalID: -594170271227149747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_47
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 400
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56469f377cf85b20800000000000000
+      internalID: 3123523930679559771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 367
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b150b60fa4a2ed0800000000000000
+      internalID: -2438053851819599022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_49
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 368
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a65b7d462e4f3f0800000000000000
+      internalID: -867819905432065499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_50
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 369
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92131c9f1a18cc80800000000000000
+      internalID: -8302357189992705378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_51
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 367
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce04ab4cf369724f0800000000000000
+      internalID: -853548403735772948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_52
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 368
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0356ed9272c06160800000000000000
+      internalID: 7016822016974410508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_53
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 369
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee93fb08ce017e60800000000000000
+      internalID: 7958158268897140451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_54
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 367
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903f719d92f5557d0800000000000000
+      internalID: -2930331349194116343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_55
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 368
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8234ac814b6ec4c90800000000000000
+      internalID: -7184113644378373336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_56
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 369
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a150d411c67eba9a0800000000000000
+      internalID: -6220624008949463782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_57
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 367
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8f8104e40016620800000000000000
+      internalID: 2765491982265022649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 367
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f66644fd271a9a0800000000000000
+      internalID: -6223566906798477542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_59
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 368
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8c7d74e9e846e10800000000000000
+      internalID: 2190032129270204618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 335
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695ec2311a31358d0800000000000000
+      internalID: -2858919755917761130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_61
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 335
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18acda2ed5bc304f0800000000000000
+      internalID: -863623099429565823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_62
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 335
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22eb0456e0fd2980800000000000000
+      internalID: -8561922444518235604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_63
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 335
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fbbf174a76c9bd0800000000000000
+      internalID: -2622106927051849978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_64
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 335
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae622191aff48af0800000000000000
+      internalID: -394909797911990624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_65
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 335
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997f00e69b9d99920800000000000000
+      internalID: 2997666417429510041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_66
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 335
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb0c849d21d1dfe0800000000000000
+      internalID: -1165920834816308238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_67
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 336
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7406249e4a7da5cb0800000000000000
+      internalID: -4874346543387090873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_68
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 335
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f3b9ffba0059680800000000000000
+      internalID: -8749085962369548421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_69
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 335
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587c47ed1409b79a0800000000000000
+      internalID: -6234230646584850555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_70
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 335
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78e8dd03802e8440800000000000000
+      internalID: 4939921588517136509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_71
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 335
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9012286dc9c105f20800000000000000
+      internalID: 3409256377858793737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_72
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 303
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8b0c189e271c540800000000000000
+      internalID: 5026425006352021700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_73
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 303
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d748443ec2b5a20800000000000000
+      internalID: 3052082527092374794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_74
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 304
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631ea41299d813ae0800000000000000
+      internalID: -1571319106147524298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_75
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 303
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65da33dad80a3f840800000000000000
+      internalID: 5256721720428178774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_76
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 304
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb90f0fb21bee580800000000000000
+      internalID: -8795898219923989511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_77
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 305
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540bbcd0e2081eb70800000000000000
+      internalID: 8926556871713337413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_78
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 303
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9254ac352372cd590800000000000000
+      internalID: -7648194970074331863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_79
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 304
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea91cb95d4cdfd40800000000000000
+      internalID: 5619864331748481772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_80
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 305
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa61236a1de8344a0800000000000000
+      internalID: -6610282796962146646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_81
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 303
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c40b96e92fb5c90800000000000000
+      internalID: -7179878418720207767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_82
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 304
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c725f177ea35cf0800000000000000
+      internalID: -264676126434886586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_83
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 303
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14afa9b2d52d7450800000000000000
+      internalID: 6088063858263434267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_84
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 287
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032ba7cfe47911430800000000000000
+      internalID: 3751946330075476528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46693eded3eac6080800000000000000
+      internalID: -9192781158362671516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_86
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 287
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175820dccf6002630800000000000000
+      internalID: 3900124960143869297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_87
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 271
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49ffdb53596b34d0800000000000000
+      internalID: -3153811307298293427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_88
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 271
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d79f8e3603457eb0800000000000000
+      internalID: -4722794940129634346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_89
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 271
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555048498d2540010800000000000000
+      internalID: 1154138494671783253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_90
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 272
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b20693f20064570800000000000000
+      internalID: 8450441953633381159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_91
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 272
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4363be25f8c1c200800000000000000
+      internalID: 198660813957063498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_92
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 272
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787d55637ecbfaf70800000000000000
+      internalID: 9200780264976275335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_93
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 272
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca111f18b7b78270800000000000000
+      internalID: 8252766843602803407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_94
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 272
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435aa693af79a68f0800000000000000
+      internalID: -546457303811185356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_95
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 272
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6872ddbfe81e9c3e0800000000000000
+      internalID: -2032845752553887866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_96
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 271
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0620901a8dbfe6b60800000000000000
+      internalID: 7741401717329691232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_97
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 272
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f399a7df1addf580800000000000000
+      internalID: -8791631067260283916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_98
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 271
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956fa3551f7ea24e0800000000000000
+      internalID: -2005535660337072551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_99
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 239
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94be663a49e918f70800000000000000
+      internalID: 9187799076046302025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_100
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 239
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3959aca107e3310800000000000000
+      internalID: 1386668995646952410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_101
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 239
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b79cadf6f50eac0800000000000000
+      internalID: -3827954749248275617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_102
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 239
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1c39d731525f150800000000000000
+      internalID: 5905667252007715263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 239
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc90554830283360800000000000000
+      internalID: 7149499834503830720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_104
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 239
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5549e471a780ad0800000000000000
+      internalID: -2735802533106395668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_105
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 239
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d66217b164973470800000000000000
+      internalID: 8374325179522901719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_106
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 239
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594743602736fbd50800000000000000
+      internalID: 6755227307460555925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_107
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 240
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3c13c08a8180ac0800000000000000
+      internalID: -3888831168196262924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_108
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 239
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f17b4d0427a0560800000000000000
+      internalID: 7280757370370072392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_109
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 239
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67818a7b3d33e9e30800000000000000
+      internalID: 4512100861084178550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_110
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 240
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43f8d3452ef4c2f0800000000000000
+      internalID: -953357785090165942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_111
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 223
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a37c6354e680fd0800000000000000
+      internalID: -2375527559887111662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_112
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 223
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fd59aa5cf7220a0800000000000000
+      internalID: -6907818391485685860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_113
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 223
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2900070305351fc50800000000000000
+      internalID: 6697225724751773842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_114
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 223
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a558464086519650800000000000000
+      internalID: 6237862067819795877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 223
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421c877eca8c6a760800000000000000
+      internalID: 7468877676983927076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_116
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 223
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2656209add4b37b80800000000000000
+      internalID: -8398170015999564446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_117
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 207
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c4f2f8586c04540800000000000000
+      internalID: 4990206664061701169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_118
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 207
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867499f540ceb7cc0800000000000000
+      internalID: -3712113964308936856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_119
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 207
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2cffcf95d92dd30800000000000000
+      internalID: 4454795991245111984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_120
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 207
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3c4e9d0160095d0800000000000000
+      internalID: -3057937477539675165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 207
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec57d49fafdcd780800000000000000
+      internalID: -8656798438503523093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_122
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 207
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21492c6f3bc382a20800000000000000
+      internalID: 3037744692298159122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_123
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 207
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d9793be7ce6a280800000000000000
+      internalID: -9032271973721858693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_124
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 207
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00575f10d4fe21830800000000000000
+      internalID: 4040554929729139968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_125
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 207
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5838788f5e3937940800000000000000
+      internalID: 5292736603016889221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_126
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 207
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b24eb2e13f80250800000000000000
+      internalID: 5911241821834718070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_127
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 207
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b43c6414cac5b60800000000000000
+      internalID: 7736247656275725090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_128
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 207
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2ea620030c134b0800000000000000
+      internalID: -5462373560592178522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_129
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 175
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6ff921b7c341530800000000000000
+      internalID: 3824748482835510949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_130
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 175
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4756336025687340800000000000000
+      internalID: 4861746987524314958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_131
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 176
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75240c0afca6adb0800000000000000
+      internalID: -4780943764463803010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_132
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 175
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609f24d6affc5e850800000000000000
+      internalID: 6405754719486277894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_133
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 175
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593c9eb3408252e90800000000000000
+      internalID: -7051185642928487531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_134
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 176
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a00f914b0cf30950800000000000000
+      internalID: 6414247419581497510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_135
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 175
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740af006339304160800000000000000
+      internalID: 7007663913006243911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_136
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 175
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550e1f50b2cfe4c90800000000000000
+      internalID: -7183527093895831467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_137
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 176
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da214624eff7ef3a0800000000000000
+      internalID: -6629720871430516051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_138
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 175
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05feac91666512c70800000000000000
+      internalID: 8944525331453898576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_139
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 176
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8e7d72078d6b670800000000000000
+      internalID: 8554262518453233840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_140
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 175
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd57d75a6b9c3bc70800000000000000
+      internalID: 8985747467831965149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_141
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 159
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0949c125178e8f30800000000000000
+      internalID: 4579746395913275659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_142
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 160
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb9fbdba4bc34fd0800000000000000
+      internalID: -2358818257940538376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_143
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 159
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9443fb454faf591f0800000000000000
+      internalID: -1038648211738250167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_144
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 143
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30243ae0129db8c0800000000000000
+      internalID: -3981865894179233734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_145
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 143
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fcf39f258dbf3f0800000000000000
+      internalID: -865860652458062030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_146
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 143
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855846dc89396d040800000000000000
+      internalID: 4672083947933697368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_147
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 143
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70785595d0b3d83d0800000000000000
+      internalID: -3202838831471163641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_148
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 143
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ff33cd6ca6a8db0800000000000000
+      internalID: -4788897851424637114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_149
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 143
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d872a3fbdf78a70800000000000000
+      internalID: 8829304592239398208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_150
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 143
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36bef85938b41230800000000000000
+      internalID: 3608711757876344380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_151
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 143
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeef102485d8cfc90800000000000000
+      internalID: -7134672299457642770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_152
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 143
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2db32a9ee4ba900800000000000000
+      internalID: 696737332715049638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_153
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 143
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c4077160a4491f0800000000000000
+      internalID: -1039124223992247166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_154
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 144
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034ca9c5e5d020c70800000000000000
+      internalID: 8935719309588218928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_155
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 143
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75634c35728b7de00800000000000000
+      internalID: 1069525915572385367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517f05c536380fde0800000000000000
+      internalID: -1301395829536262379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_157
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 112
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c374d085a97f3610800000000000000
+      internalID: 1603133744105157568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_158
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 113
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450f3fe62571d6b90800000000000000
+      internalID: -7247110582553022380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_159
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 111
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5016548d8b75f1b0800000000000000
+      internalID: -5623452711961358242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_160
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 112
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51add31c4a5481a0800000000000000
+      internalID: -6808217453880041122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_161
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 113
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758981af3e0ff02f0800000000000000
+      internalID: -1004319329936172969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_162
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 111
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df206a38e50565eb0800000000000000
+      internalID: -4731505991640284419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_163
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 111
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a94e27662439170800000000000000
+      internalID: 8183957955644005022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_164
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 111
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe41914850b34350800000000000000
+      internalID: 5999833021691285183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_165
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 111
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c673b138d57eaf0800000000000000
+      internalID: -367222026928690023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_166
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 112
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3059fd798b74af160800000000000000
+      internalID: 7060034224004240643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_167
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 113
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446d8f9ca52258f80800000000000000
+      internalID: -8105034181052410300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_168
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 95
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930d05d35d428ae80800000000000000
+      internalID: -8167237425961054151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_169
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 95
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df93ddcc8bc258230800000000000000
+      internalID: 3640365046021569021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_170
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 95
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0489da74d3c91f0800000000000000
+      internalID: -1036886436137647894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_171
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 79
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf02ee6ee1538190800000000000000
+      internalID: -7961429631756529716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_172
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 79
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6038bb8f158b160800000000000000
+      internalID: 7041468146133436103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_173
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 79
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4835c0a031e925820800000000000000
+      internalID: 2905558514217538436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_174
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 79
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5628be423fbbe1080800000000000000
+      internalID: -9214721134582594971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_175
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 79
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904f9e478179d5d60800000000000000
+      internalID: 7880621054264734729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_176
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 79
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3364438cb11a3af10800000000000000
+      internalID: 2279842977074660915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_177
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 79
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cab08eb4e6c59e0800000000000000
+      internalID: -1631307692720280453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_178
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 79
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd73ecb2c175e4820800000000000000
+      internalID: 2904354588206184415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_179
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 79
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a0af31ebf1b1b30800000000000000
+      internalID: 4259032773848336928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_180
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 80
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0341f142bf59d3d70800000000000000
+      internalID: 9024534134195688496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_181
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 63
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c941aaf1f55495990800000000000000
+      internalID: -7396804638123879268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_182
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 80
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8b9e9659edad490800000000000000
+      internalID: -7720613877864875832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_183
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6949f52be296e50800000000000000
+      internalID: 6803020055762474712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_184
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 48
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e1a5664648cb820800000000000000
+      internalID: 2935366623887498859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_185
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 49
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f061529adc002c9c0800000000000000
+      internalID: -3908560643298093553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_186
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 47
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5656831820b4ba50800000000000000
+      internalID: 6536042645394183775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_187
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 47
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883b0948dbfc85990800000000000000
+      internalID: -7396933975076195448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_188
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 48
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c83c71a62b1f2e50800000000000000
+      internalID: 6786673016202606792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_189
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 15
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1730c206134da690800000000000000
+      internalID: -7589336035234924772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_190
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2462a3519037ce90800000000000000
+      internalID: -7005577294619974609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_191
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 15
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a099af5faab2be0800000000000000
+      internalID: -1500918077349885384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_192
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de846953c6e1a240800000000000000
+      internalID: 4801372404446432977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_193
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 15
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cf4fe1ffa0ff6a0800000000000000
+      internalID: -6413395253499986786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-near_194
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b55809dbf873b6e0800000000000000
+      internalID: -1822980401081592399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      weapons-2-near_0: 7412762515379495779
+      weapons-2-near_1: -532123591568609258
+      weapons-2-near_10: 3939469864229069127
+      weapons-2-near_100: 1386668995646952410
+      weapons-2-near_101: -3827954749248275617
+      weapons-2-near_102: 5905667252007715263
+      weapons-2-near_103: 7149499834503830720
+      weapons-2-near_104: -2735802533106395668
+      weapons-2-near_105: 8374325179522901719
+      weapons-2-near_106: 6755227307460555925
+      weapons-2-near_107: -3888831168196262924
+      weapons-2-near_108: 7280757370370072392
+      weapons-2-near_109: 4512100861084178550
+      weapons-2-near_11: 5965666530100939086
+      weapons-2-near_110: -953357785090165942
+      weapons-2-near_111: -2375527559887111662
+      weapons-2-near_112: -6907818391485685860
+      weapons-2-near_113: 6697225724751773842
+      weapons-2-near_114: 6237862067819795877
+      weapons-2-near_115: 7468877676983927076
+      weapons-2-near_116: -8398170015999564446
+      weapons-2-near_117: 4990206664061701169
+      weapons-2-near_118: -3712113964308936856
+      weapons-2-near_119: 4454795991245111984
+      weapons-2-near_12: -7209905693470505617
+      weapons-2-near_120: -3057937477539675165
+      weapons-2-near_121: -8656798438503523093
+      weapons-2-near_122: 3037744692298159122
+      weapons-2-near_123: -9032271973721858693
+      weapons-2-near_124: 4040554929729139968
+      weapons-2-near_125: 5292736603016889221
+      weapons-2-near_126: 5911241821834718070
+      weapons-2-near_127: 7736247656275725090
+      weapons-2-near_128: -5462373560592178522
+      weapons-2-near_129: 3824748482835510949
+      weapons-2-near_13: -6808304459767565606
+      weapons-2-near_130: 4861746987524314958
+      weapons-2-near_131: -4780943764463803010
+      weapons-2-near_132: 6405754719486277894
+      weapons-2-near_133: -7051185642928487531
+      weapons-2-near_134: 6414247419581497510
+      weapons-2-near_135: 7007663913006243911
+      weapons-2-near_136: -7183527093895831467
+      weapons-2-near_137: -6629720871430516051
+      weapons-2-near_138: 8944525331453898576
+      weapons-2-near_139: 8554262518453233840
+      weapons-2-near_14: 2988588218142591799
+      weapons-2-near_140: 8985747467831965149
+      weapons-2-near_141: 4579746395913275659
+      weapons-2-near_142: -2358818257940538376
+      weapons-2-near_143: -1038648211738250167
+      weapons-2-near_144: -3981865894179233734
+      weapons-2-near_145: -865860652458062030
+      weapons-2-near_146: 4672083947933697368
+      weapons-2-near_147: -3202838831471163641
+      weapons-2-near_148: -4788897851424637114
+      weapons-2-near_149: 8829304592239398208
+      weapons-2-near_15: -7603515169541938150
+      weapons-2-near_150: 3608711757876344380
+      weapons-2-near_151: -7134672299457642770
+      weapons-2-near_152: 696737332715049638
+      weapons-2-near_153: -1039124223992247166
+      weapons-2-near_154: 8935719309588218928
+      weapons-2-near_155: 1069525915572385367
+      weapons-2-near_156: -1301395829536262379
+      weapons-2-near_157: 1603133744105157568
+      weapons-2-near_158: -7247110582553022380
+      weapons-2-near_159: -5623452711961358242
+      weapons-2-near_16: 6482955074080141092
+      weapons-2-near_160: -6808217453880041122
+      weapons-2-near_161: -1004319329936172969
+      weapons-2-near_162: -4731505991640284419
+      weapons-2-near_163: 8183957955644005022
+      weapons-2-near_164: 5999833021691285183
+      weapons-2-near_165: -367222026928690023
+      weapons-2-near_166: 7060034224004240643
+      weapons-2-near_167: -8105034181052410300
+      weapons-2-near_168: -8167237425961054151
+      weapons-2-near_169: 3640365046021569021
+      weapons-2-near_17: -6066555040798499576
+      weapons-2-near_170: -1036886436137647894
+      weapons-2-near_171: -7961429631756529716
+      weapons-2-near_172: 7041468146133436103
+      weapons-2-near_173: 2905558514217538436
+      weapons-2-near_174: -9214721134582594971
+      weapons-2-near_175: 7880621054264734729
+      weapons-2-near_176: 2279842977074660915
+      weapons-2-near_177: -1631307692720280453
+      weapons-2-near_178: 2904354588206184415
+      weapons-2-near_179: 4259032773848336928
+      weapons-2-near_18: -4340301790935311626
+      weapons-2-near_180: 9024534134195688496
+      weapons-2-near_181: -7396804638123879268
+      weapons-2-near_182: -7720613877864875832
+      weapons-2-near_183: 6803020055762474712
+      weapons-2-near_184: 2935366623887498859
+      weapons-2-near_185: -3908560643298093553
+      weapons-2-near_186: 6536042645394183775
+      weapons-2-near_187: -7396933975076195448
+      weapons-2-near_188: 6786673016202606792
+      weapons-2-near_189: -7589336035234924772
+      weapons-2-near_19: -7379478166217687527
+      weapons-2-near_190: -7005577294619974609
+      weapons-2-near_191: -1500918077349885384
+      weapons-2-near_192: 4801372404446432977
+      weapons-2-near_193: -6413395253499986786
+      weapons-2-near_194: -1822980401081592399
+      weapons-2-near_2: 5129426434891937269
+      weapons-2-near_20: -1571878350020649201
+      weapons-2-near_21: -4091771818642992344
+      weapons-2-near_22: 1315098064919254811
+      weapons-2-near_23: -5349065455010367600
+      weapons-2-near_24: 865919550593342965
+      weapons-2-near_25: -3053370360833717378
+      weapons-2-near_26: 1502839077741375520
+      weapons-2-near_27: 4072132534327834977
+      weapons-2-near_28: -6267696728051581770
+      weapons-2-near_29: -7984319288521386057
+      weapons-2-near_3: -5955893425640715699
+      weapons-2-near_30: -2896755469543390548
+      weapons-2-near_31: -5073909265714377298
+      weapons-2-near_32: -5493839767915690895
+      weapons-2-near_33: -3494967699357651522
+      weapons-2-near_34: 3058769284617707706
+      weapons-2-near_35: 5548321935386776276
+      weapons-2-near_36: 4636886098210883894
+      weapons-2-near_37: 2180056696831752847
+      weapons-2-near_38: -4243204425290775640
+      weapons-2-near_39: 4944925506365965470
+      weapons-2-near_4: 1256165830489990839
+      weapons-2-near_40: -358463678272326817
+      weapons-2-near_41: 8325783846993119721
+      weapons-2-near_42: 8250185777629567937
+      weapons-2-near_43: 7208046453512961233
+      weapons-2-near_44: 2786503852982415658
+      weapons-2-near_45: 6654247080110675496
+      weapons-2-near_46: -594170271227149747
+      weapons-2-near_47: 3123523930679559771
+      weapons-2-near_48: -2438053851819599022
+      weapons-2-near_49: -867819905432065499
+      weapons-2-near_5: 2398068986264244588
+      weapons-2-near_50: -8302357189992705378
+      weapons-2-near_51: -853548403735772948
+      weapons-2-near_52: 7016822016974410508
+      weapons-2-near_53: 7958158268897140451
+      weapons-2-near_54: -2930331349194116343
+      weapons-2-near_55: -7184113644378373336
+      weapons-2-near_56: -6220624008949463782
+      weapons-2-near_57: 2765491982265022649
+      weapons-2-near_58: -6223566906798477542
+      weapons-2-near_59: 2190032129270204618
+      weapons-2-near_6: 5041812311958945155
+      weapons-2-near_60: -2858919755917761130
+      weapons-2-near_61: -863623099429565823
+      weapons-2-near_62: -8561922444518235604
+      weapons-2-near_63: -2622106927051849978
+      weapons-2-near_64: -394909797911990624
+      weapons-2-near_65: 2997666417429510041
+      weapons-2-near_66: -1165920834816308238
+      weapons-2-near_67: -4874346543387090873
+      weapons-2-near_68: -8749085962369548421
+      weapons-2-near_69: -6234230646584850555
+      weapons-2-near_7: -6092189566820111239
+      weapons-2-near_70: 4939921588517136509
+      weapons-2-near_71: 3409256377858793737
+      weapons-2-near_72: 5026425006352021700
+      weapons-2-near_73: 3052082527092374794
+      weapons-2-near_74: -1571319106147524298
+      weapons-2-near_75: 5256721720428178774
+      weapons-2-near_76: -8795898219923989511
+      weapons-2-near_77: 8926556871713337413
+      weapons-2-near_78: -7648194970074331863
+      weapons-2-near_79: 5619864331748481772
+      weapons-2-near_8: -4768679039787471849
+      weapons-2-near_80: -6610282796962146646
+      weapons-2-near_81: -7179878418720207767
+      weapons-2-near_82: -264676126434886586
+      weapons-2-near_83: 6088063858263434267
+      weapons-2-near_84: 3751946330075476528
+      weapons-2-near_85: -9192781158362671516
+      weapons-2-near_86: 3900124960143869297
+      weapons-2-near_87: -3153811307298293427
+      weapons-2-near_88: -4722794940129634346
+      weapons-2-near_89: 1154138494671783253
+      weapons-2-near_9: -2991764158433641349
+      weapons-2-near_90: 8450441953633381159
+      weapons-2-near_91: 198660813957063498
+      weapons-2-near_92: 9200780264976275335
+      weapons-2-near_93: 8252766843602803407
+      weapons-2-near_94: -546457303811185356
+      weapons-2-near_95: -2032845752553887866
+      weapons-2-near_96: 7741401717329691232
+      weapons-2-near_97: -8791631067260283916
+      weapons-2-near_98: -2005535660337072551
+      weapons-2-near_99: 9187799076046302025
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

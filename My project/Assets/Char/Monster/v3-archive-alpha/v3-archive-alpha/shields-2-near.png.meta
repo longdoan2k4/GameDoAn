@@ -1,0 +1,3718 @@
+fileFormatVersion: 2
+guid: b26a619e90e5035428117ecf5c4c2333
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2404557183603910465
+    second: shields-2-near_0
+  - first:
+      213: 9117265835119463691
+    second: shields-2-near_1
+  - first:
+      213: -517355011130914090
+    second: shields-2-near_2
+  - first:
+      213: 6972707424930666182
+    second: shields-2-near_3
+  - first:
+      213: 5125327381828463704
+    second: shields-2-near_4
+  - first:
+      213: 5412289926469516221
+    second: shields-2-near_5
+  - first:
+      213: 6509912947815109405
+    second: shields-2-near_6
+  - first:
+      213: 8420510022475426620
+    second: shields-2-near_7
+  - first:
+      213: 2457612885745002693
+    second: shields-2-near_8
+  - first:
+      213: -6061187999724900932
+    second: shields-2-near_9
+  - first:
+      213: -5493737435521600128
+    second: shields-2-near_10
+  - first:
+      213: -589121997366212695
+    second: shields-2-near_11
+  - first:
+      213: 6437537812618716479
+    second: shields-2-near_12
+  - first:
+      213: -605618689305898215
+    second: shields-2-near_13
+  - first:
+      213: 7982060530425223361
+    second: shields-2-near_14
+  - first:
+      213: 602396652594660907
+    second: shields-2-near_15
+  - first:
+      213: -2711921048984895873
+    second: shields-2-near_16
+  - first:
+      213: -657003204065710997
+    second: shields-2-near_17
+  - first:
+      213: -3855284295263420429
+    second: shields-2-near_18
+  - first:
+      213: 3791347543756761609
+    second: shields-2-near_19
+  - first:
+      213: -5622941753574306013
+    second: shields-2-near_20
+  - first:
+      213: 5761507447849066915
+    second: shields-2-near_21
+  - first:
+      213: -8725071801609214031
+    second: shields-2-near_22
+  - first:
+      213: -5628077143107363416
+    second: shields-2-near_23
+  - first:
+      213: -567338300963696203
+    second: shields-2-near_24
+  - first:
+      213: -5926350987217159279
+    second: shields-2-near_25
+  - first:
+      213: -3805918089199397434
+    second: shields-2-near_26
+  - first:
+      213: 5210860272312713534
+    second: shields-2-near_27
+  - first:
+      213: -5732538691515643569
+    second: shields-2-near_28
+  - first:
+      213: 2758848348745266558
+    second: shields-2-near_29
+  - first:
+      213: -1121265677286568881
+    second: shields-2-near_30
+  - first:
+      213: -615306531601876852
+    second: shields-2-near_31
+  - first:
+      213: -4858282605074399281
+    second: shields-2-near_32
+  - first:
+      213: 6171610921540527780
+    second: shields-2-near_33
+  - first:
+      213: -6352658967952438380
+    second: shields-2-near_34
+  - first:
+      213: 7893774498724801325
+    second: shields-2-near_35
+  - first:
+      213: 4922680653446517057
+    second: shields-2-near_36
+  - first:
+      213: 1587035954868022864
+    second: shields-2-near_37
+  - first:
+      213: -5656320504605216657
+    second: shields-2-near_38
+  - first:
+      213: 2083805367544309836
+    second: shields-2-near_39
+  - first:
+      213: -7620293130172217343
+    second: shields-2-near_40
+  - first:
+      213: 4114247092527351602
+    second: shields-2-near_41
+  - first:
+      213: -5513955367327296533
+    second: shields-2-near_42
+  - first:
+      213: -7002235045150304689
+    second: shields-2-near_43
+  - first:
+      213: 2300773677876600909
+    second: shields-2-near_44
+  - first:
+      213: -2181137040720964410
+    second: shields-2-near_45
+  - first:
+      213: -8149822606983869445
+    second: shields-2-near_46
+  - first:
+      213: -6749932675783781184
+    second: shields-2-near_47
+  - first:
+      213: -622563290475516030
+    second: shields-2-near_48
+  - first:
+      213: -556365167916278776
+    second: shields-2-near_49
+  - first:
+      213: 3092320154770313606
+    second: shields-2-near_50
+  - first:
+      213: -4925446245889410893
+    second: shields-2-near_51
+  - first:
+      213: 5929799667381034740
+    second: shields-2-near_52
+  - first:
+      213: -1600955103381291170
+    second: shields-2-near_53
+  - first:
+      213: -8707615279827300749
+    second: shields-2-near_54
+  - first:
+      213: -7229912895270098642
+    second: shields-2-near_55
+  - first:
+      213: 324282400451094120
+    second: shields-2-near_56
+  - first:
+      213: -5863461455715808501
+    second: shields-2-near_57
+  - first:
+      213: -1875404948787791918
+    second: shields-2-near_58
+  - first:
+      213: 3185435173821217566
+    second: shields-2-near_59
+  - first:
+      213: 1043849200304564123
+    second: shields-2-near_60
+  - first:
+      213: -8229996771170769981
+    second: shields-2-near_61
+  - first:
+      213: 4095654950476300914
+    second: shields-2-near_62
+  - first:
+      213: -2328432478006498094
+    second: shields-2-near_63
+  - first:
+      213: 6738765271408146775
+    second: shields-2-near_64
+  - first:
+      213: 2374207954587717523
+    second: shields-2-near_65
+  - first:
+      213: -7949910034821115084
+    second: shields-2-near_66
+  - first:
+      213: -5804842717327653944
+    second: shields-2-near_67
+  - first:
+      213: -2608219296311998485
+    second: shields-2-near_68
+  - first:
+      213: -32104205640102041
+    second: shields-2-near_69
+  - first:
+      213: -1933044739295700593
+    second: shields-2-near_70
+  - first:
+      213: 1171498444731059944
+    second: shields-2-near_71
+  - first:
+      213: 282365893055771825
+    second: shields-2-near_72
+  - first:
+      213: 6740604529654728010
+    second: shields-2-near_73
+  - first:
+      213: 2668687672001969566
+    second: shields-2-near_74
+  - first:
+      213: 4443995454982734471
+    second: shields-2-near_75
+  - first:
+      213: 1426430608356170352
+    second: shields-2-near_76
+  - first:
+      213: 1851730525249969693
+    second: shields-2-near_77
+  - first:
+      213: 2643042074434390401
+    second: shields-2-near_78
+  - first:
+      213: -7986027813973406689
+    second: shields-2-near_79
+  - first:
+      213: 5322683170008897860
+    second: shields-2-near_80
+  - first:
+      213: -8469661458367053467
+    second: shields-2-near_81
+  - first:
+      213: -2200971745139596158
+    second: shields-2-near_82
+  - first:
+      213: 2150126748558628771
+    second: shields-2-near_83
+  - first:
+      213: 6260648025741244107
+    second: shields-2-near_84
+  - first:
+      213: -7755946217756411974
+    second: shields-2-near_85
+  - first:
+      213: 6529552378344365924
+    second: shields-2-near_86
+  - first:
+      213: 5090074081518870120
+    second: shields-2-near_87
+  - first:
+      213: -8180242710493744230
+    second: shields-2-near_88
+  - first:
+      213: -8941873198963315108
+    second: shields-2-near_89
+  - first:
+      213: 5908171863895450507
+    second: shields-2-near_90
+  - first:
+      213: -7196076139291455551
+    second: shields-2-near_91
+  - first:
+      213: -465126563968899387
+    second: shields-2-near_92
+  - first:
+      213: -2120499162219237467
+    second: shields-2-near_93
+  - first:
+      213: 3996080003211258579
+    second: shields-2-near_94
+  - first:
+      213: -7234349842354492595
+    second: shields-2-near_95
+  - first:
+      213: 8823355249549803109
+    second: shields-2-near_96
+  - first:
+      213: -6279371895498622438
+    second: shields-2-near_97
+  - first:
+      213: -6647430533585565130
+    second: shields-2-near_98
+  - first:
+      213: 3469211605996890235
+    second: shields-2-near_99
+  - first:
+      213: -8363599595016522225
+    second: shields-2-near_100
+  - first:
+      213: -102845825911502036
+    second: shields-2-near_101
+  - first:
+      213: 8079416775328402329
+    second: shields-2-near_102
+  - first:
+      213: -5504062724454777483
+    second: shields-2-near_103
+  - first:
+      213: 1599174460331831263
+    second: shields-2-near_104
+  - first:
+      213: 931001135938879118
+    second: shields-2-near_105
+  - first:
+      213: -4962084025769802054
+    second: shields-2-near_106
+  - first:
+      213: 5088401439766268712
+    second: shields-2-near_107
+  - first:
+      213: -3119529856049583681
+    second: shields-2-near_108
+  - first:
+      213: -8300159448019833349
+    second: shields-2-near_109
+  - first:
+      213: -2474940645761346973
+    second: shields-2-near_110
+  - first:
+      213: 5988280445184893841
+    second: shields-2-near_111
+  - first:
+      213: 678881991309713418
+    second: shields-2-near_112
+  - first:
+      213: 8826866861851934788
+    second: shields-2-near_113
+  - first:
+      213: 8733339538465622123
+    second: shields-2-near_114
+  - first:
+      213: 8041334128641351269
+    second: shields-2-near_115
+  - first:
+      213: -6747146240513897417
+    second: shields-2-near_116
+  - first:
+      213: -641665948287293891
+    second: shields-2-near_117
+  - first:
+      213: -4606992741180039547
+    second: shields-2-near_118
+  - first:
+      213: 1089579168196111514
+    second: shields-2-near_119
+  - first:
+      213: -7077298963729435517
+    second: shields-2-near_120
+  - first:
+      213: 8483528274762561737
+    second: shields-2-near_121
+  - first:
+      213: -1050476960467822397
+    second: shields-2-near_122
+  - first:
+      213: -1535572052133829949
+    second: shields-2-near_123
+  - first:
+      213: -8494409510428793983
+    second: shields-2-near_124
+  - first:
+      213: -6216502229223968254
+    second: shields-2-near_125
+  - first:
+      213: 2157952709442688614
+    second: shields-2-near_126
+  - first:
+      213: 4964438301297266890
+    second: shields-2-near_127
+  - first:
+      213: 124597474884870198
+    second: shields-2-near_128
+  - first:
+      213: 3962671804097615013
+    second: shields-2-near_129
+  - first:
+      213: 1890624484316097510
+    second: shields-2-near_130
+  - first:
+      213: 3701513207956700717
+    second: shields-2-near_131
+  - first:
+      213: -4268344712137846470
+    second: shields-2-near_132
+  - first:
+      213: -3047042885963136710
+    second: shields-2-near_133
+  - first:
+      213: 7374930156939289637
+    second: shields-2-near_134
+  - first:
+      213: 188530144691502561
+    second: shields-2-near_135
+  - first:
+      213: 7637697521344469318
+    second: shields-2-near_136
+  - first:
+      213: -8643919229245041870
+    second: shields-2-near_137
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shields-2-near_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 368
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14723d2c404be5120800000000000000
+      internalID: 2404557183603910465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 367
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0dc911c8f8078e70800000000000000
+      internalID: 9117265835119463691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 367
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da06c2cb5cf1d8f0800000000000000
+      internalID: -517355011130914090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 368
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c698b1c57804c060800000000000000
+      internalID: 6972707424930666182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_4
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 367
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ce77f3912d02740800000000000000
+      internalID: 5125327381828463704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 367
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbf3a833015c1b40800000000000000
+      internalID: 5412289926469516221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 368
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d135c35c55bd75a50800000000000000
+      internalID: 6509912947815109405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 367
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ba34d6049abd470800000000000000
+      internalID: 8420510022475426620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 367
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8e04a06e13b1220800000000000000
+      internalID: 2457612885745002693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 368
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd6987b0a552eba0800000000000000
+      internalID: -6061187999724900932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_10
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 367
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0853872d8e252c3b0800000000000000
+      internalID: -5493737435521600128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_11
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 367
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a74e992aa403d7f0800000000000000
+      internalID: -589121997366212695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 351
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35a845788ab65950800000000000000
+      internalID: 6437537812618716479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_13
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 352
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9139592c2096897f0800000000000000
+      internalID: -605618689305898215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 351
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c859abf2c9f5ce60800000000000000
+      internalID: 7982060530425223361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_15
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 351
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b260acb50942c5800800000000000000
+      internalID: 602396652594660907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_16
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 352
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7eb950ac225d5ad0800000000000000
+      internalID: -2711921048984895873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_17
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 351
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cae5d111bd1e6f0800000000000000
+      internalID: -657003204065710997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 351
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff7ea01c574f7ac0800000000000000
+      internalID: -3855284295263420429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_19
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 352
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90aebade0829d9430800000000000000
+      internalID: 3791347543756761609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_20
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 351
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fcd79444c47f1b0800000000000000
+      internalID: -5622941753574306013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 351
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1afcf7f7cf4ff40800000000000000
+      internalID: 5761507447849066915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_22
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 352
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b72e418c615ae680800000000000000
+      internalID: -8725071801609214031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_23
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 351
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad179c38ad05e1b0800000000000000
+      internalID: -5628077143107363416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1d59732d86028f0800000000000000
+      internalID: -567338300963696203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_25
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 303
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bb2a02d2f51cda0800000000000000
+      internalID: -5926350987217159279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_26
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 303
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5590999a9ae2bc0800000000000000
+      internalID: -3805918089199397434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_27
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 304
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3105613fc1b05840800000000000000
+      internalID: 5210860272312713534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_28
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 303
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49070fae6ee170b0800000000000000
+      internalID: -5732538691515643569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_29
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 303
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e757228c4f5694620800000000000000
+      internalID: 2758848348745266558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_30
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 304
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c0f76aec67070f0800000000000000
+      internalID: -1121265677286568881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_31
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 303
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8874e338fdf577f0800000000000000
+      internalID: -615306531601876852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_32
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 303
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfb41206b9e39cb0800000000000000
+      internalID: -4858282605074399281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_33
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 304
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6285e3f67f5a550800000000000000
+      internalID: 6171610921540527780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_34
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 303
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bcef39352d6d7a0800000000000000
+      internalID: -6352658967952438380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_35
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 303
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b678565125c8d60800000000000000
+      internalID: 7893774498724801325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 287
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1411e5b09ffd05440800000000000000
+      internalID: 4922680653446517057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_37
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 288
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e6eafdac8460610800000000000000
+      internalID: 1587035954868022864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_38
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 287
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f607f333876b081b0800000000000000
+      internalID: -5656320504605216657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_39
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 287
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48e789f0f92bec10800000000000000
+      internalID: 2083805367544309836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_40
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 288
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1084cbba5c74f3690800000000000000
+      internalID: -7620293130172217343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_41
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 287
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237c644beedb81930800000000000000
+      internalID: 4114247092527351602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_42
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 287
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3191fbece7a73b0800000000000000
+      internalID: -5513955367327296533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_43
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 288
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46560c635013de90800000000000000
+      internalID: -7002235045150304689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_44
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 287
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d406762587dfdef10800000000000000
+      internalID: 2300773677876600909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_45
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 287
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c45169ea6b0bb1e0800000000000000
+      internalID: -2181137040720964410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_46
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 288
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb4740c48306ee80800000000000000
+      internalID: -8149822606983869445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_47
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 287
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c41b1a7efb6352a0800000000000000
+      internalID: -6749932675783781184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f220d5cf53c57f0800000000000000
+      internalID: -622563290475516030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_49
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 239
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c13f8d3d46748f0800000000000000
+      internalID: -556365167916278776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_50
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 239
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6819dd40cc02aea20800000000000000
+      internalID: 3092320154770313606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_51
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 240
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8fa794cbc45abb0800000000000000
+      internalID: -4925446245889410893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_52
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 239
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fed97b4161ea4250800000000000000
+      internalID: 5929799667381034740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_53
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 239
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ffb91d0d348c9e0800000000000000
+      internalID: -1600955103381291170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_54
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 240
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e4125b906582780800000000000000
+      internalID: -8707615279827300749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_55
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 239
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29e86807803aab90800000000000000
+      internalID: -7229912895270098642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_56
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 239
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8666cc50025108400800000000000000
+      internalID: 324282400451094120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_57
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 240
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b4dd93fdcc0aea0800000000000000
+      internalID: -5863461455715808501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_58
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 239
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d77e79a22939f5e0800000000000000
+      internalID: -1875404948787791918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_59
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 239
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bf5a6d960f43c20800000000000000
+      internalID: 3185435173821217566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 223
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97aa3f215f7c7e00800000000000000
+      internalID: 1043849200304564123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_61
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 224
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c321cf7a8d29cd80800000000000000
+      internalID: -8229996771170769981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_62
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 223
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272c5bd4a70b6d830800000000000000
+      internalID: 4095654950476300914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_63
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 223
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dca0f07ffebfafd0800000000000000
+      internalID: -2328432478006498094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_64
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 224
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75975039f47e48d50800000000000000
+      internalID: 6738765271408146775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_65
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 223
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f8b1c3e81e2f020800000000000000
+      internalID: 2374207954587717523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_66
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 223
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4339c2a91fe3ca190800000000000000
+      internalID: -7949910034821115084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_67
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 224
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c30ca0dd4e017fa0800000000000000
+      internalID: -5804842717327653944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_68
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 223
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be701037e5ebdcbd0800000000000000
+      internalID: -2608219296311998485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_69
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 223
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f86032561fd8ff0800000000000000
+      internalID: -32104205640102041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_70
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 224
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8997532d027c25e0800000000000000
+      internalID: -1933044739295700593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_71
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 223
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee0e1de0aff14010800000000000000
+      internalID: 1171498444731059944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b47640a84a2be300800000000000000
+      internalID: 282365893055771825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_73
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 175
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4585714b107b8d50800000000000000
+      internalID: 6740604529654728010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_74
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 175
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d34226c45190520800000000000000
+      internalID: 2668687672001969566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_75
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 176
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78242bd225e3cad30800000000000000
+      internalID: 4443995454982734471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_76
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 175
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a50dba413bbc310800000000000000
+      internalID: 1426430608356170352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_77
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 175
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e95411a1ba2b910800000000000000
+      internalID: 1851730525249969693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_78
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 176
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189c21563c8fda420800000000000000
+      internalID: 2643042074434390401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_79
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 175
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cc9b5d30eeb2190800000000000000
+      internalID: -7986027813973406689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_80
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 175
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44994507428fdd940800000000000000
+      internalID: 5322683170008897860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_81
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 176
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561073e17c7b57a80800000000000000
+      internalID: -8469661458367053467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_82
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 175
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284684aebd39471e0800000000000000
+      internalID: -2200971745139596158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_83
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 175
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a717edc2e8c6dd10800000000000000
+      internalID: 2150126748558628771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_84
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 159
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6be06853a42e650800000000000000
+      internalID: 6260648025741244107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_85
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 160
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab73899f1085d5490800000000000000
+      internalID: -7755946217756411974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_86
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 159
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fd5850b41ad9a50800000000000000
+      internalID: 6529552378344365924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_87
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 159
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86eda55a86393a640800000000000000
+      internalID: 5090074081518870120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_88
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 160
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93ba887890f97e80800000000000000
+      internalID: -8180242710493744230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_89
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 159
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ea43d93b518e380800000000000000
+      internalID: -8941873198963315108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_90
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 159
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b832273e10b0ef150800000000000000
+      internalID: 5908171863895450507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_91
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 160
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf4ed4b0e6622c90800000000000000
+      internalID: -7196076139291455551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_92
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 159
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6290bbad98b89f0800000000000000
+      internalID: -465126563968899387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_93
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 159
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afa8613f397292e0800000000000000
+      internalID: -2120499162219237467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_94
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 160
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dae27d379de47730800000000000000
+      internalID: 3996080003211258579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_95
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 159
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bae89c52d6a9b90800000000000000
+      internalID: -7234349842354492595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e7e70f9dad27a70800000000000000
+      internalID: 8823355249549803109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_97
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 111
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1abb34d7803bd8a0800000000000000
+      internalID: -6279371895498622438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_98
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 111
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a0c8836259fb3a0800000000000000
+      internalID: -6647430533585565130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_99
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 112
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b786b12339d152030800000000000000
+      internalID: 3469211605996890235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_100
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 111
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0670770b768eeb80800000000000000
+      internalID: -8363599595016522225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_101
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 111
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bc9e7244e929ef0800000000000000
+      internalID: -102845825911502036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_102
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 112
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b08c520cadf1070800000000000000
+      internalID: 8079416775328402329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_103
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 111
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d77672d14ad93b0800000000000000
+      internalID: -5504062724454777483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_104
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 111
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfa4f9e2b8613610800000000000000
+      internalID: 1599174460331831263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_105
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 112
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e3f19b9949bec00800000000000000
+      internalID: 931001135938879118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_106
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 111
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6c95a6ed2232bb0800000000000000
+      internalID: -4962084025769802054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_107
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 111
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bcad36622ad9640800000000000000
+      internalID: 5088401439766268712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_108
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 95
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb960f7bf1435b4d0800000000000000
+      internalID: -3119529856049583681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_109
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 96
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdeca945f8efcc80800000000000000
+      internalID: -8300159448019833349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_110
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 95
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3621831789e37add0800000000000000
+      internalID: -2474940645761346973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_111
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 95
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193e9ae6655aa1350800000000000000
+      internalID: 5988280445184893841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_112
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 96
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00ec60039fdb6900800000000000000
+      internalID: 678881991309713418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_113
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 95
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4400a54e4a45f7a70800000000000000
+      internalID: 8826866861851934788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_114
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 95
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b680e1df90e033970800000000000000
+      internalID: 8733339538465622123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_115
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 96
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e94e109ce889f60800000000000000
+      internalID: 8041334128641351269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_116
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 95
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c8e8efd325d52a0800000000000000
+      internalID: -6747146240513897417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_117
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 95
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d362fdf38385817f0800000000000000
+      internalID: -641665948287293891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_118
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 96
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e1923c28ca010c0800000000000000
+      internalID: -4606992741180039547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_119
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 95
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9caefa0b76fe1f00800000000000000
+      internalID: 1089579168196111514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384baa1f61268cd90800000000000000
+      internalID: -7077298963729435517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_121
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 47
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8743ba40c8bb570800000000000000
+      internalID: 8483528274762561737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_122
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 47
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8559625c4fb61f0800000000000000
+      internalID: -1050476960467822397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_123
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 48
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2ab89ba5d80bae0800000000000000
+      internalID: -1535572052133829949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_124
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 47
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183213a3e8bcd1a80800000000000000
+      internalID: -8494409510428793983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_125
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 47
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2027ea1b82c8ab9a0800000000000000
+      internalID: -6216502229223968254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_126
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 48
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6665c605e8692fd10800000000000000
+      internalID: 2157952709442688614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_127
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 47
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0da22155a35e440800000000000000
+      internalID: 4964438301297266890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_128
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 47
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6306c664eb8aab100800000000000000
+      internalID: 124597474884870198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 17
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4d1bcb20d3ef630800000000000000
+      internalID: 3962671804097615013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_130
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 32
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb215793f8dc3a10800000000000000
+      internalID: 1890624484316097510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_131
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2efca3b6aa6e5330800000000000000
+      internalID: 3701513207956700717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_132
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 31
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a315b16591bc3c4c0800000000000000
+      internalID: -4268344712137846470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_133
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 32
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3149ce93aab6b5d0800000000000000
+      internalID: -3047042885963136710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_134
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524aea757e3095660800000000000000
+      internalID: 7374930156939289637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_135
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 31
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed3acfea2bcd9200800000000000000
+      internalID: 188530144691502561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_136
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 32
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6495e9ded6d8ef960800000000000000
+      internalID: 7637697521344469318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shields-2-near_137
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 31
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2335ea92241aa0880800000000000000
+      internalID: -8643919229245041870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      shields-2-near_0: 2404557183603910465
+      shields-2-near_1: 9117265835119463691
+      shields-2-near_10: -5493737435521600128
+      shields-2-near_100: -8363599595016522225
+      shields-2-near_101: -102845825911502036
+      shields-2-near_102: 8079416775328402329
+      shields-2-near_103: -5504062724454777483
+      shields-2-near_104: 1599174460331831263
+      shields-2-near_105: 931001135938879118
+      shields-2-near_106: -4962084025769802054
+      shields-2-near_107: 5088401439766268712
+      shields-2-near_108: -3119529856049583681
+      shields-2-near_109: -8300159448019833349
+      shields-2-near_11: -589121997366212695
+      shields-2-near_110: -2474940645761346973
+      shields-2-near_111: 5988280445184893841
+      shields-2-near_112: 678881991309713418
+      shields-2-near_113: 8826866861851934788
+      shields-2-near_114: 8733339538465622123
+      shields-2-near_115: 8041334128641351269
+      shields-2-near_116: -6747146240513897417
+      shields-2-near_117: -641665948287293891
+      shields-2-near_118: -4606992741180039547
+      shields-2-near_119: 1089579168196111514
+      shields-2-near_12: 6437537812618716479
+      shields-2-near_120: -7077298963729435517
+      shields-2-near_121: 8483528274762561737
+      shields-2-near_122: -1050476960467822397
+      shields-2-near_123: -1535572052133829949
+      shields-2-near_124: -8494409510428793983
+      shields-2-near_125: -6216502229223968254
+      shields-2-near_126: 2157952709442688614
+      shields-2-near_127: 4964438301297266890
+      shields-2-near_128: 124597474884870198
+      shields-2-near_129: 3962671804097615013
+      shields-2-near_13: -605618689305898215
+      shields-2-near_130: 1890624484316097510
+      shields-2-near_131: 3701513207956700717
+      shields-2-near_132: -4268344712137846470
+      shields-2-near_133: -3047042885963136710
+      shields-2-near_134: 7374930156939289637
+      shields-2-near_135: 188530144691502561
+      shields-2-near_136: 7637697521344469318
+      shields-2-near_137: -8643919229245041870
+      shields-2-near_14: 7982060530425223361
+      shields-2-near_15: 602396652594660907
+      shields-2-near_16: -2711921048984895873
+      shields-2-near_17: -657003204065710997
+      shields-2-near_18: -3855284295263420429
+      shields-2-near_19: 3791347543756761609
+      shields-2-near_2: -517355011130914090
+      shields-2-near_20: -5622941753574306013
+      shields-2-near_21: 5761507447849066915
+      shields-2-near_22: -8725071801609214031
+      shields-2-near_23: -5628077143107363416
+      shields-2-near_24: -567338300963696203
+      shields-2-near_25: -5926350987217159279
+      shields-2-near_26: -3805918089199397434
+      shields-2-near_27: 5210860272312713534
+      shields-2-near_28: -5732538691515643569
+      shields-2-near_29: 2758848348745266558
+      shields-2-near_3: 6972707424930666182
+      shields-2-near_30: -1121265677286568881
+      shields-2-near_31: -615306531601876852
+      shields-2-near_32: -4858282605074399281
+      shields-2-near_33: 6171610921540527780
+      shields-2-near_34: -6352658967952438380
+      shields-2-near_35: 7893774498724801325
+      shields-2-near_36: 4922680653446517057
+      shields-2-near_37: 1587035954868022864
+      shields-2-near_38: -5656320504605216657
+      shields-2-near_39: 2083805367544309836
+      shields-2-near_4: 5125327381828463704
+      shields-2-near_40: -7620293130172217343
+      shields-2-near_41: 4114247092527351602
+      shields-2-near_42: -5513955367327296533
+      shields-2-near_43: -7002235045150304689
+      shields-2-near_44: 2300773677876600909
+      shields-2-near_45: -2181137040720964410
+      shields-2-near_46: -8149822606983869445
+      shields-2-near_47: -6749932675783781184
+      shields-2-near_48: -622563290475516030
+      shields-2-near_49: -556365167916278776
+      shields-2-near_5: 5412289926469516221
+      shields-2-near_50: 3092320154770313606
+      shields-2-near_51: -4925446245889410893
+      shields-2-near_52: 5929799667381034740
+      shields-2-near_53: -1600955103381291170
+      shields-2-near_54: -8707615279827300749
+      shields-2-near_55: -7229912895270098642
+      shields-2-near_56: 324282400451094120
+      shields-2-near_57: -5863461455715808501
+      shields-2-near_58: -1875404948787791918
+      shields-2-near_59: 3185435173821217566
+      shields-2-near_6: 6509912947815109405
+      shields-2-near_60: 1043849200304564123
+      shields-2-near_61: -8229996771170769981
+      shields-2-near_62: 4095654950476300914
+      shields-2-near_63: -2328432478006498094
+      shields-2-near_64: 6738765271408146775
+      shields-2-near_65: 2374207954587717523
+      shields-2-near_66: -7949910034821115084
+      shields-2-near_67: -5804842717327653944
+      shields-2-near_68: -2608219296311998485
+      shields-2-near_69: -32104205640102041
+      shields-2-near_7: 8420510022475426620
+      shields-2-near_70: -1933044739295700593
+      shields-2-near_71: 1171498444731059944
+      shields-2-near_72: 282365893055771825
+      shields-2-near_73: 6740604529654728010
+      shields-2-near_74: 2668687672001969566
+      shields-2-near_75: 4443995454982734471
+      shields-2-near_76: 1426430608356170352
+      shields-2-near_77: 1851730525249969693
+      shields-2-near_78: 2643042074434390401
+      shields-2-near_79: -7986027813973406689
+      shields-2-near_8: 2457612885745002693
+      shields-2-near_80: 5322683170008897860
+      shields-2-near_81: -8469661458367053467
+      shields-2-near_82: -2200971745139596158
+      shields-2-near_83: 2150126748558628771
+      shields-2-near_84: 6260648025741244107
+      shields-2-near_85: -7755946217756411974
+      shields-2-near_86: 6529552378344365924
+      shields-2-near_87: 5090074081518870120
+      shields-2-near_88: -8180242710493744230
+      shields-2-near_89: -8941873198963315108
+      shields-2-near_9: -6061187999724900932
+      shields-2-near_90: 5908171863895450507
+      shields-2-near_91: -7196076139291455551
+      shields-2-near_92: -465126563968899387
+      shields-2-near_93: -2120499162219237467
+      shields-2-near_94: 3996080003211258579
+      shields-2-near_95: -7234349842354492595
+      shields-2-near_96: 8823355249549803109
+      shields-2-near_97: -6279371895498622438
+      shields-2-near_98: -6647430533585565130
+      shields-2-near_99: 3469211605996890235
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

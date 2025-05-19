@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 2f4584f3aab5e894a9392fecb628190d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1685237340653031862
+    second: minotaurus_spritesheet_lightning_0
+  - first:
+      213: 7143125366972015030
+    second: minotaurus_spritesheet_lightning_1
+  - first:
+      213: -4705278652965372583
+    second: minotaurus_spritesheet_lightning_2
+  - first:
+      213: -7031021161202635384
+    second: minotaurus_spritesheet_lightning_3
+  - first:
+      213: -9165014483973529772
+    second: minotaurus_spritesheet_lightning_4
+  - first:
+      213: 3472859900865675379
+    second: minotaurus_spritesheet_lightning_5
+  - first:
+      213: 430512835953533812
+    second: minotaurus_spritesheet_lightning_6
+  - first:
+      213: -5631399958490937506
+    second: minotaurus_spritesheet_lightning_7
+  - first:
+      213: 7183753507836787578
+    second: minotaurus_spritesheet_lightning_8
+  - first:
+      213: 6855389974494066891
+    second: minotaurus_spritesheet_lightning_9
+  - first:
+      213: 5013389390630704053
+    second: minotaurus_spritesheet_lightning_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: minotaurus_spritesheet_lightning_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 214
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ee6244195dc98e0800000000000000
+      internalID: -1685237340653031862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurus_spritesheet_lightning_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 214
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1e274ecaa712360800000000000000
+      internalID: 7143125366972015030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurus_spritesheet_lightning_2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 118
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d35c8aefd73beb0800000000000000
+      internalID: -4705278652965372583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurus_spritesheet_lightning_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 118
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d234e718bcc6e90800000000000000
+      internalID: -7031021161202635384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurus_spritesheet_lightning_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 118
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f927992e35fc080800000000000000
+      internalID: -9165014483973529772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurus_spritesheet_lightning_5
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 118
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3700cc90ea3123030800000000000000
+      internalID: 3472859900865675379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurus_spritesheet_lightning_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 22
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473a142b42d79f500800000000000000
+      internalID: 430512835953533812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurus_spritesheet_lightning_7
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 22
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e578ffdf29f39d1b0800000000000000
+      internalID: -5631399958490937506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurus_spritesheet_lightning_8
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 22
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bf39411c1d1b360800000000000000
+      internalID: 7183753507836787578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurus_spritesheet_lightning_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 22
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc83e724cdc332f50800000000000000
+      internalID: 6855389974494066891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurus_spritesheet_lightning_10
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 22
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b35145b613239540800000000000000
+      internalID: 5013389390630704053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      minotaurus_spritesheet_lightning_0: -1685237340653031862
+      minotaurus_spritesheet_lightning_1: 7143125366972015030
+      minotaurus_spritesheet_lightning_10: 5013389390630704053
+      minotaurus_spritesheet_lightning_2: -4705278652965372583
+      minotaurus_spritesheet_lightning_3: -7031021161202635384
+      minotaurus_spritesheet_lightning_4: -9165014483973529772
+      minotaurus_spritesheet_lightning_5: 3472859900865675379
+      minotaurus_spritesheet_lightning_6: 430512835953533812
+      minotaurus_spritesheet_lightning_7: -5631399958490937506
+      minotaurus_spritesheet_lightning_8: 7183753507836787578
+      minotaurus_spritesheet_lightning_9: 6855389974494066891
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

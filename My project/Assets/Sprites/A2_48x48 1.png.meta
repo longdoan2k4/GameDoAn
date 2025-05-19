@@ -1,0 +1,519 @@
+fileFormatVersion: 2
+guid: ac4ebc811039a0a4b810fe18eb195732
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5521475871079545855
+    second: A2_48x48 1_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: A2_48x48 1_100
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa0f52990df67e46adc31ada1d3ce82
+      internalID: 1910730786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_48x48 1_124
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f577a17782ce1f4c87cf266568c8c2f
+      internalID: -1960106615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_48x48 1_129
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4efe09fe5fa15d49a4d605bc5fcfa30
+      internalID: -513295541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_48x48 1_130
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc87dd85f2156e348970c4a87e48b1e0
+      internalID: 820488627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_48x48 1_131
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa07427e180a9d947ac23b5a042d5742
+      internalID: 1458396665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_48x48 1_135
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f27f591449da14786188d4aa62564b
+      internalID: 829718906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_48x48 1_136
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11608937d4bb194b80bb1e7456f33f5
+      internalID: 1668655187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_48x48 1_137
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b522d855f38854eb1dcec768a3d493
+      internalID: 1865631962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_48x48 1_141
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21db641398036fc4e95e408da57a0c38
+      internalID: -1843033697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_48x48 1_142
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7049575ac71fe49936ff710b52cea6
+      internalID: 437653094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_48x48 1_143
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df97b4e0917660b4d9671110422d6ac9
+      internalID: -458170467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1894b17e9d717744c8dbc21226d134f3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      A2_48x48 1_0: 5521475871079545855
+      A2_48x48 1_1: 132693421
+      A2_48x48 1_10: -1940575743
+      A2_48x48 1_100: 1910730786
+      A2_48x48 1_101: -964377667
+      A2_48x48 1_102: -519612939
+      A2_48x48 1_103: -1540744320
+      A2_48x48 1_104: 1909253507
+      A2_48x48 1_105: 820638631
+      A2_48x48 1_106: 1566136527
+      A2_48x48 1_107: -459209750
+      A2_48x48 1_108: 1717899797
+      A2_48x48 1_109: -488102114
+      A2_48x48 1_11: -66209352
+      A2_48x48 1_110: 19391111
+      A2_48x48 1_111: 1621912122
+      A2_48x48 1_112: 993078857
+      A2_48x48 1_113: 1387119772
+      A2_48x48 1_114: 1230304039
+      A2_48x48 1_115: -1820052499
+      A2_48x48 1_116: 640575924
+      A2_48x48 1_117: -2023835641
+      A2_48x48 1_118: -856528940
+      A2_48x48 1_119: -335530590
+      A2_48x48 1_12: -2037093869
+      A2_48x48 1_120: -152370014
+      A2_48x48 1_121: -224449696
+      A2_48x48 1_122: 1295272048
+      A2_48x48 1_123: 1980137154
+      A2_48x48 1_124: -1960106615
+      A2_48x48 1_125: -658979988
+      A2_48x48 1_126: -421991709
+      A2_48x48 1_127: 38837065
+      A2_48x48 1_128: 91652067
+      A2_48x48 1_129: -513295541
+      A2_48x48 1_13: -1186684426
+      A2_48x48 1_130: 820488627
+      A2_48x48 1_131: 1458396665
+      A2_48x48 1_132: -2088120633
+      A2_48x48 1_133: -306060129
+      A2_48x48 1_134: -2136504505
+      A2_48x48 1_135: 829718906
+      A2_48x48 1_136: 1668655187
+      A2_48x48 1_137: 1865631962
+      A2_48x48 1_138: 262945198
+      A2_48x48 1_139: -1396344696
+      A2_48x48 1_14: 1928007050
+      A2_48x48 1_140: 1016121119
+      A2_48x48 1_141: -1843033697
+      A2_48x48 1_142: 437653094
+      A2_48x48 1_143: -458170467
+      A2_48x48 1_15: -2139862610
+      A2_48x48 1_16: 2084207692
+      A2_48x48 1_17: 170561643
+      A2_48x48 1_18: -1478488858
+      A2_48x48 1_19: -1537990066
+      A2_48x48 1_2: -1897788625
+      A2_48x48 1_20: -8089423
+      A2_48x48 1_21: 2053418735
+      A2_48x48 1_22: -1468370773
+      A2_48x48 1_23: -1059150154
+      A2_48x48 1_24: -1939335701
+      A2_48x48 1_25: -185866754
+      A2_48x48 1_26: 1577895763
+      A2_48x48 1_27: 1260498465
+      A2_48x48 1_28: -574032582
+      A2_48x48 1_29: -1832059758
+      A2_48x48 1_3: 1412343482
+      A2_48x48 1_30: 346704213
+      A2_48x48 1_31: 2064926538
+      A2_48x48 1_32: 876037544
+      A2_48x48 1_33: 1498706140
+      A2_48x48 1_34: 943331894
+      A2_48x48 1_35: 338400644
+      A2_48x48 1_36: 1694487548
+      A2_48x48 1_37: 568734807
+      A2_48x48 1_38: 2068663911
+      A2_48x48 1_39: -392880543
+      A2_48x48 1_4: -1550563630
+      A2_48x48 1_40: -106666277
+      A2_48x48 1_41: -1460818455
+      A2_48x48 1_42: -1059596254
+      A2_48x48 1_43: -1893373846
+      A2_48x48 1_44: -2024304378
+      A2_48x48 1_45: 569851642
+      A2_48x48 1_46: -1075448458
+      A2_48x48 1_47: 1197590833
+      A2_48x48 1_48: 608167472
+      A2_48x48 1_49: 1270408122
+      A2_48x48 1_5: 1749024872
+      A2_48x48 1_50: -524764838
+      A2_48x48 1_51: 1035925939
+      A2_48x48 1_52: 735054068
+      A2_48x48 1_53: -1043759313
+      A2_48x48 1_54: 2057461489
+      A2_48x48 1_55: 1587187776
+      A2_48x48 1_56: 829389801
+      A2_48x48 1_57: 1015827101
+      A2_48x48 1_58: -1713991271
+      A2_48x48 1_59: -1139970072
+      A2_48x48 1_6: -1743178821
+      A2_48x48 1_60: -1349489118
+      A2_48x48 1_61: -1997499094
+      A2_48x48 1_62: -1481234066
+      A2_48x48 1_63: 1976159786
+      A2_48x48 1_64: 1486341060
+      A2_48x48 1_65: -1290165886
+      A2_48x48 1_66: 1691835138
+      A2_48x48 1_67: -886681896
+      A2_48x48 1_68: 1308412279
+      A2_48x48 1_69: 518868503
+      A2_48x48 1_7: 1230175053
+      A2_48x48 1_70: -313656113
+      A2_48x48 1_71: 417008802
+      A2_48x48 1_72: -940987828
+      A2_48x48 1_73: -90708729
+      A2_48x48 1_74: 1435314864
+      A2_48x48 1_75: -1528706882
+      A2_48x48 1_76: -279573690
+      A2_48x48 1_77: 532103159
+      A2_48x48 1_78: 1605595695
+      A2_48x48 1_79: -383646107
+      A2_48x48 1_8: 1135638662
+      A2_48x48 1_80: -1733085308
+      A2_48x48 1_81: -1454574656
+      A2_48x48 1_82: 1859348465
+      A2_48x48 1_83: -2042501847
+      A2_48x48 1_84: 1045338219
+      A2_48x48 1_85: 91962141
+      A2_48x48 1_86: -771607374
+      A2_48x48 1_87: -115519609
+      A2_48x48 1_88: -1430327197
+      A2_48x48 1_89: -340437264
+      A2_48x48 1_9: -1153984549
+      A2_48x48 1_90: -1571139100
+      A2_48x48 1_91: 206414718
+      A2_48x48 1_92: 582400672
+      A2_48x48 1_93: 2124345922
+      A2_48x48 1_94: 1376943910
+      A2_48x48 1_95: -1191201648
+      A2_48x48 1_96: -793633486
+      A2_48x48 1_97: 1447981532
+      A2_48x48 1_98: -330941384
+      A2_48x48 1_99: -576076882
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 8845588470f77f94681963570783ea63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4987402012032261033
+    second: minotaurus_spritesheet_lava_0
+  - first:
+      213: 355156942706660709
+    second: minotaurus_spritesheet_lava_1
+  - first:
+      213: 453648999136601275
+    second: minotaurus_spritesheet_lava_2
+  - first:
+      213: 8839809452377955076
+    second: minotaurus_spritesheet_lava_3
+  - first:
+      213: 9137337630026816235
+    second: minotaurus_spritesheet_lava_4
+  - first:
+      213: 1619308119258587378
+    second: minotaurus_spritesheet_lava_5
+  - first:
+      213: -3452385292071282584
+    second: minotaurus_spritesheet_lava_6
+  - first:
+      213: 3531717336721172752
+    second: minotaurus_spritesheet_lava_7
+  - first:
+      213: -5781418029534830077
+    second: minotaurus_spritesheet_lava_8
+  - first:
+      213: 3211314142765358315
+    second: minotaurus_spritesheet_lava_9
+  - first:
+      213: -5116202143095941915
+    second: minotaurus_spritesheet_lava_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: minotaurus_spritesheet_lava_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 214
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab504f94bfc63540800000000000000
+      internalID: 4987402012032261033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurus_spritesheet_lava_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 214
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5655b819b55cde400800000000000000
+      internalID: 355156942706660709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurus_spritesheet_lava_2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 118
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4af367c5fab4600800000000000000
+      internalID: 453648999136601275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurus_spritesheet_lava_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 118
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bd0239cdf4daa70800000000000000
+      internalID: 8839809452377955076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurus_spritesheet_lava_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 118
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beade8ea9285ece70800000000000000
+      internalID: 9137337630026816235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurus_spritesheet_lava_5
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 118
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0605ea720f87610800000000000000
+      internalID: 1619308119258587378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurus_spritesheet_lava_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 22
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868de4e4ed9a610d0800000000000000
+      internalID: -3452385292071282584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurus_spritesheet_lava_7
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 22
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019aa56b43e230130800000000000000
+      internalID: 3531717336721172752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurus_spritesheet_lava_8
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 22
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302a983fee644cfa0800000000000000
+      internalID: -5781418029534830077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurus_spritesheet_lava_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 22
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec97b5d231e09c20800000000000000
+      internalID: 3211314142765358315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaurus_spritesheet_lava_10
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 22
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e49ca5f1499ff8b0800000000000000
+      internalID: -5116202143095941915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      minotaurus_spritesheet_lava_0: 4987402012032261033
+      minotaurus_spritesheet_lava_1: 355156942706660709
+      minotaurus_spritesheet_lava_10: -5116202143095941915
+      minotaurus_spritesheet_lava_2: 453648999136601275
+      minotaurus_spritesheet_lava_3: 8839809452377955076
+      minotaurus_spritesheet_lava_4: 9137337630026816235
+      minotaurus_spritesheet_lava_5: 1619308119258587378
+      minotaurus_spritesheet_lava_6: -3452385292071282584
+      minotaurus_spritesheet_lava_7: 3531717336721172752
+      minotaurus_spritesheet_lava_8: -5781418029534830077
+      minotaurus_spritesheet_lava_9: 3211314142765358315
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

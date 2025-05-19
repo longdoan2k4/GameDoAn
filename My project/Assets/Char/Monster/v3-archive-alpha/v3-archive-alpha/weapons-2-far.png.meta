@@ -1,0 +1,2132 @@
+fileFormatVersion: 2
+guid: 0799d73ed0d442c4c89773aa0f8a3503
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -557548362591984534
+    second: weapons-2-far_0
+  - first:
+      213: -2813452203616016395
+    second: weapons-2-far_1
+  - first:
+      213: -2730414669701701083
+    second: weapons-2-far_2
+  - first:
+      213: -6065724200728332396
+    second: weapons-2-far_3
+  - first:
+      213: -4096056932465074758
+    second: weapons-2-far_4
+  - first:
+      213: -747254252910800642
+    second: weapons-2-far_5
+  - first:
+      213: -7824711756462145737
+    second: weapons-2-far_6
+  - first:
+      213: -2726227622357361106
+    second: weapons-2-far_7
+  - first:
+      213: -6018557332339701826
+    second: weapons-2-far_8
+  - first:
+      213: -841191429330040272
+    second: weapons-2-far_9
+  - first:
+      213: 819178739386697532
+    second: weapons-2-far_10
+  - first:
+      213: -2580748857649632650
+    second: weapons-2-far_11
+  - first:
+      213: 3669914793067139865
+    second: weapons-2-far_12
+  - first:
+      213: -1117056325395299790
+    second: weapons-2-far_13
+  - first:
+      213: 3530234955200602634
+    second: weapons-2-far_14
+  - first:
+      213: -8078878035254231477
+    second: weapons-2-far_15
+  - first:
+      213: 6067871918394434131
+    second: weapons-2-far_16
+  - first:
+      213: 3274510830674847532
+    second: weapons-2-far_17
+  - first:
+      213: 7667172470613255967
+    second: weapons-2-far_18
+  - first:
+      213: 7915066847809141982
+    second: weapons-2-far_19
+  - first:
+      213: -3332205724916546484
+    second: weapons-2-far_20
+  - first:
+      213: -6269013150059236789
+    second: weapons-2-far_21
+  - first:
+      213: 7059023519830669708
+    second: weapons-2-far_22
+  - first:
+      213: -1469174540591532414
+    second: weapons-2-far_23
+  - first:
+      213: -1313611478118462813
+    second: weapons-2-far_24
+  - first:
+      213: 6759002284179563184
+    second: weapons-2-far_25
+  - first:
+      213: -8604354979475025752
+    second: weapons-2-far_26
+  - first:
+      213: 2333948051821661474
+    second: weapons-2-far_27
+  - first:
+      213: 802103133202400590
+    second: weapons-2-far_28
+  - first:
+      213: 2686108435232585538
+    second: weapons-2-far_29
+  - first:
+      213: -7450755747333035775
+    second: weapons-2-far_30
+  - first:
+      213: 5428641778256295935
+    second: weapons-2-far_31
+  - first:
+      213: -4125076996190668998
+    second: weapons-2-far_32
+  - first:
+      213: -1324212762813250413
+    second: weapons-2-far_33
+  - first:
+      213: 5324752719946420936
+    second: weapons-2-far_34
+  - first:
+      213: 5612401386536705122
+    second: weapons-2-far_35
+  - first:
+      213: -997920358908482516
+    second: weapons-2-far_36
+  - first:
+      213: -795422032359851789
+    second: weapons-2-far_37
+  - first:
+      213: -2645257411126081468
+    second: weapons-2-far_38
+  - first:
+      213: -3085000415349257168
+    second: weapons-2-far_39
+  - first:
+      213: 6099342753496362739
+    second: weapons-2-far_40
+  - first:
+      213: -2447376806801072922
+    second: weapons-2-far_41
+  - first:
+      213: -1319733508156603837
+    second: weapons-2-far_42
+  - first:
+      213: -3147640577892068869
+    second: weapons-2-far_43
+  - first:
+      213: 8292795169605566032
+    second: weapons-2-far_44
+  - first:
+      213: -3501930303934587025
+    second: weapons-2-far_45
+  - first:
+      213: 7903532012586634152
+    second: weapons-2-far_46
+  - first:
+      213: 6617256792130919508
+    second: weapons-2-far_47
+  - first:
+      213: 8841304822499518900
+    second: weapons-2-far_48
+  - first:
+      213: -8444663176701880598
+    second: weapons-2-far_49
+  - first:
+      213: 122093994407773126
+    second: weapons-2-far_50
+  - first:
+      213: -6754056911469013848
+    second: weapons-2-far_51
+  - first:
+      213: 7321678302250354196
+    second: weapons-2-far_52
+  - first:
+      213: -5536625660269483443
+    second: weapons-2-far_53
+  - first:
+      213: -575670687873732570
+    second: weapons-2-far_54
+  - first:
+      213: 885248518952939261
+    second: weapons-2-far_55
+  - first:
+      213: -8859824962994886371
+    second: weapons-2-far_56
+  - first:
+      213: 7661460301326466487
+    second: weapons-2-far_57
+  - first:
+      213: -2971408508956313853
+    second: weapons-2-far_58
+  - first:
+      213: 247515768058249283
+    second: weapons-2-far_59
+  - first:
+      213: 4364613725081244447
+    second: weapons-2-far_60
+  - first:
+      213: 8395823810182680739
+    second: weapons-2-far_61
+  - first:
+      213: -6763639344616960311
+    second: weapons-2-far_62
+  - first:
+      213: 8111971884937251882
+    second: weapons-2-far_63
+  - first:
+      213: 1242709048102267919
+    second: weapons-2-far_64
+  - first:
+      213: 5818220764408593457
+    second: weapons-2-far_65
+  - first:
+      213: 9112549251773284217
+    second: weapons-2-far_66
+  - first:
+      213: 8922387298048468492
+    second: weapons-2-far_67
+  - first:
+      213: -40341438690956450
+    second: weapons-2-far_68
+  - first:
+      213: -6671623803730770834
+    second: weapons-2-far_69
+  - first:
+      213: 1500371954635678764
+    second: weapons-2-far_70
+  - first:
+      213: 5440148736825027068
+    second: weapons-2-far_71
+  - first:
+      213: 3757585945084470761
+    second: weapons-2-far_72
+  - first:
+      213: 6410839621397397224
+    second: weapons-2-far_73
+  - first:
+      213: -9028554846996199080
+    second: weapons-2-far_74
+  - first:
+      213: -2241723091399777773
+    second: weapons-2-far_75
+  - first:
+      213: -2501064281682996875
+    second: weapons-2-far_76
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: weapons-2-far_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64aa9ed7b03348f0800000000000000
+      internalID: -557548362591984534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 482
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f76dea802c94f8d0800000000000000
+      internalID: -2813452203616016395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 481
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5222ae2035e9b1ad0800000000000000
+      internalID: -2730414669701701083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 447
+        width: 93
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497f81e1af732dba0800000000000000
+      internalID: -6065724200728332396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_4
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 482
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd94a8fbe1e727c0800000000000000
+      internalID: -4096056932465074758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 481
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef01a52573831a5f0800000000000000
+      internalID: -747254252910800642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 96
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f30465d1a096390800000000000000
+      internalID: -7824711756462145737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 417
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e1880fb6e7a2ad0800000000000000
+      internalID: -2726227622357361106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 417
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7c1917ef9c97ca0800000000000000
+      internalID: -6018557332339701826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_9
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 416
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a0ea21adc7354f0800000000000000
+      internalID: -841191429330040272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 416
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3742b829be4e5b00800000000000000
+      internalID: 819178739386697532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_11
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 383
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a6c4d56965f2cd0800000000000000
+      internalID: -2580748857649632650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_12
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 415
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913d7bc6f082ee230800000000000000
+      internalID: 3669914793067139865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_13
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 416
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232c5b2c03b6f70f0800000000000000
+      internalID: -1117056325395299790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_14
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 415
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02266edcf9edf030800000000000000
+      internalID: 3530234955200602634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e37fc0b3f02ef80800000000000000
+      internalID: -8078878035254231477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 352
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352e77e5c59653450800000000000000
+      internalID: 6067871918394434131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_17
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 352
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c272b8b5046617d20800000000000000
+      internalID: 3274510830674847532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_18
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 352
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17ae865db4476a60800000000000000
+      internalID: 7667172470613255967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc722dbc57f7dd60800000000000000
+      internalID: 7915066847809141982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 352
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4483d74c80a1c1d0800000000000000
+      internalID: -3332205724916546484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_21
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 351
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42777231cdfff8a0800000000000000
+      internalID: -6269013150059236789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 352
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8972a0bd70b6f160800000000000000
+      internalID: 7059023519830669708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_23
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 351
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2867ef21a817c9be0800000000000000
+      internalID: -1469174540591532414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_24
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 354
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa8fd9025d15cde0800000000000000
+      internalID: -1313611478118462813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 355
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2a39844cccccd50800000000000000
+      internalID: 6759002284179563184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_26
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 319
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a01707ebb0379880800000000000000
+      internalID: -8604354979475025752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_27
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 321
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d8b092369d36020800000000000000
+      internalID: 2333948051821661474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_28
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 320
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45c1c7cc84a12b00800000000000000
+      internalID: 802103133202400590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_29
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 319
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247f736e369f64520800000000000000
+      internalID: 2686108435232585538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_30
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 321
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109a304af19999890800000000000000
+      internalID: -7450755747333035775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_31
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 320
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7bfc56fe8665b40800000000000000
+      internalID: 5428641778256295935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_32
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 319
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a377bead358c0c6c0800000000000000
+      internalID: -4125076996190668998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_33
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 321
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3944a7912837f9de0800000000000000
+      internalID: -1324212762813250413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_34
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 320
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c29335136255e940800000000000000
+      internalID: 5324752719946420936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_35
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 319
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c1e65435143ed40800000000000000
+      internalID: 5612401386536705122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c212588bca622f0800000000000000
+      internalID: -997920358908482516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_37
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 288
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8fbaa30e716f4f0800000000000000
+      internalID: -795422032359851789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4484c5656682a4bd0800000000000000
+      internalID: -2645257411126081468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_39
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 255
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ccc2f9770ef25d0800000000000000
+      internalID: -3085000415349257168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_40
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 288
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fee0892be735a450800000000000000
+      internalID: 6099342753496362739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_41
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 288
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec971fc2cb290ed0800000000000000
+      internalID: -2447376806801072922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_42
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 256
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3424528dd5d5fade0800000000000000
+      internalID: -1319733508156603837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_43
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 255
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1532242955154d0800000000000000
+      internalID: -3147640577892068869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_44
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 255
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e3a67054de51370800000000000000
+      internalID: 8292795169605566032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_45
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 255
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f9dcd41f4a66fc0800000000000000
+      internalID: -3501930303934587025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 258
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab8721ad7cfead60800000000000000
+      internalID: 7903532012586634152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_47
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 258
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c11822ef735db50800000000000000
+      internalID: 6617256792130919508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9280094ef92ba70800000000000000
+      internalID: 8841304822499518900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 193
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6dcd025978eca80800000000000000
+      internalID: -8444663176701880598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_50
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 193
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c342ed47d3c1b100800000000000000
+      internalID: 122093994407773126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 193
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a41e170605c442a0800000000000000
+      internalID: -6754056911469013848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_52
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 193
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416415dbf93db9560800000000000000
+      internalID: 7321678302250354196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a2359db44f923b0800000000000000
+      internalID: -5536625660269483443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_54
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6207ea53f8ec208f0800000000000000
+      internalID: -575670687873732570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_55
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 96
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe612676d8094c00800000000000000
+      internalID: 885248518952939261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_56
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 95
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d192d8433249b0580800000000000000
+      internalID: -8859824962994886371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 95
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd32594d89f25a60800000000000000
+      internalID: 7661460301326466487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_58
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 95
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307f51d44bf63c6d0800000000000000
+      internalID: -2971408508956313853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_59
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3408b67974a5f6300800000000000000
+      internalID: 247515768058249283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 65
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f131349ee09329c30800000000000000
+      internalID: 4364613725081244447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_61
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 64
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a094bab545f38470800000000000000
+      internalID: 8395823810182680739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_62
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 63
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce0043f9d9b222a0800000000000000
+      internalID: -6763639344616960311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_63
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 65
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c04a54373839070800000000000000
+      internalID: 8111971884937251882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_64
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 64
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cac4b8b4dfe3110800000000000000
+      internalID: 1242709048102267919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_65
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 63
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c306f75f87eb050800000000000000
+      internalID: 5818220764408593457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_66
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 65
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fb23e9347467e70800000000000000
+      internalID: 9112549251773284217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_67
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 65
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06e2a889ffa2db70800000000000000
+      internalID: 8922387298048468492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_68
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 65
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5be81ddcada07ff0800000000000000
+      internalID: -40341438690956450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64469f8f71a963a0800000000000000
+      internalID: -6671623803730770834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_70
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 31
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24a40be75462d410800000000000000
+      internalID: 1500371954635678764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_71
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 31
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9eeb7f37a4f7b40800000000000000
+      internalID: 5440148736825027068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_72
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5a2cd2280a52430800000000000000
+      internalID: 3757585945084470761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_73
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee34696ba0e7f850800000000000000
+      internalID: 6410839621397397224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_74
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85909a5b33124b280800000000000000
+      internalID: -9028554846996199080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_75
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312635cb9bcc3e0e0800000000000000
+      internalID: -2241723091399777773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapons-2-far_76
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5711ed9794f6a4dd0800000000000000
+      internalID: -2501064281682996875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      weapons-2-far_0: -557548362591984534
+      weapons-2-far_1: -2813452203616016395
+      weapons-2-far_10: 819178739386697532
+      weapons-2-far_11: -2580748857649632650
+      weapons-2-far_12: 3669914793067139865
+      weapons-2-far_13: -1117056325395299790
+      weapons-2-far_14: 3530234955200602634
+      weapons-2-far_15: -8078878035254231477
+      weapons-2-far_16: 6067871918394434131
+      weapons-2-far_17: 3274510830674847532
+      weapons-2-far_18: 7667172470613255967
+      weapons-2-far_19: 7915066847809141982
+      weapons-2-far_2: -2730414669701701083
+      weapons-2-far_20: -3332205724916546484
+      weapons-2-far_21: -6269013150059236789
+      weapons-2-far_22: 7059023519830669708
+      weapons-2-far_23: -1469174540591532414
+      weapons-2-far_24: -1313611478118462813
+      weapons-2-far_25: 6759002284179563184
+      weapons-2-far_26: -8604354979475025752
+      weapons-2-far_27: 2333948051821661474
+      weapons-2-far_28: 802103133202400590
+      weapons-2-far_29: 2686108435232585538
+      weapons-2-far_3: -6065724200728332396
+      weapons-2-far_30: -7450755747333035775
+      weapons-2-far_31: 5428641778256295935
+      weapons-2-far_32: -4125076996190668998
+      weapons-2-far_33: -1324212762813250413
+      weapons-2-far_34: 5324752719946420936
+      weapons-2-far_35: 5612401386536705122
+      weapons-2-far_36: -997920358908482516
+      weapons-2-far_37: -795422032359851789
+      weapons-2-far_38: -2645257411126081468
+      weapons-2-far_39: -3085000415349257168
+      weapons-2-far_4: -4096056932465074758
+      weapons-2-far_40: 6099342753496362739
+      weapons-2-far_41: -2447376806801072922
+      weapons-2-far_42: -1319733508156603837
+      weapons-2-far_43: -3147640577892068869
+      weapons-2-far_44: 8292795169605566032
+      weapons-2-far_45: -3501930303934587025
+      weapons-2-far_46: 7903532012586634152
+      weapons-2-far_47: 6617256792130919508
+      weapons-2-far_48: 8841304822499518900
+      weapons-2-far_49: -8444663176701880598
+      weapons-2-far_5: -747254252910800642
+      weapons-2-far_50: 122093994407773126
+      weapons-2-far_51: -6754056911469013848
+      weapons-2-far_52: 7321678302250354196
+      weapons-2-far_53: -5536625660269483443
+      weapons-2-far_54: -575670687873732570
+      weapons-2-far_55: 885248518952939261
+      weapons-2-far_56: -8859824962994886371
+      weapons-2-far_57: 7661460301326466487
+      weapons-2-far_58: -2971408508956313853
+      weapons-2-far_59: 247515768058249283
+      weapons-2-far_6: -7824711756462145737
+      weapons-2-far_60: 4364613725081244447
+      weapons-2-far_61: 8395823810182680739
+      weapons-2-far_62: -6763639344616960311
+      weapons-2-far_63: 8111971884937251882
+      weapons-2-far_64: 1242709048102267919
+      weapons-2-far_65: 5818220764408593457
+      weapons-2-far_66: 9112549251773284217
+      weapons-2-far_67: 8922387298048468492
+      weapons-2-far_68: -40341438690956450
+      weapons-2-far_69: -6671623803730770834
+      weapons-2-far_7: -2726227622357361106
+      weapons-2-far_70: 1500371954635678764
+      weapons-2-far_71: 5440148736825027068
+      weapons-2-far_72: 3757585945084470761
+      weapons-2-far_73: 6410839621397397224
+      weapons-2-far_74: -9028554846996199080
+      weapons-2-far_75: -2241723091399777773
+      weapons-2-far_76: -2501064281682996875
+      weapons-2-far_8: -6018557332339701826
+      weapons-2-far_9: -841191429330040272
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

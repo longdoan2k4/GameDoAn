@@ -1,0 +1,1638 @@
+fileFormatVersion: 2
+guid: 87ad225716d94f248b88676f91572c3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6932432659163677042
+    second: race-human-hair-5_0
+  - first:
+      213: 382613244320913830
+    second: race-human-hair-5_1
+  - first:
+      213: -2126114990799315696
+    second: race-human-hair-5_2
+  - first:
+      213: 2401027282437760725
+    second: race-human-hair-5_3
+  - first:
+      213: 4073684291279881410
+    second: race-human-hair-5_4
+  - first:
+      213: 6949953393073788462
+    second: race-human-hair-5_5
+  - first:
+      213: -2008428658604605987
+    second: race-human-hair-5_6
+  - first:
+      213: -6494213431689997123
+    second: race-human-hair-5_7
+  - first:
+      213: 6462005431300002393
+    second: race-human-hair-5_8
+  - first:
+      213: 58989733679472269
+    second: race-human-hair-5_9
+  - first:
+      213: 4961694244178828787
+    second: race-human-hair-5_10
+  - first:
+      213: -2896995161964183005
+    second: race-human-hair-5_11
+  - first:
+      213: 8837842770931776926
+    second: race-human-hair-5_12
+  - first:
+      213: 4673794815751750230
+    second: race-human-hair-5_13
+  - first:
+      213: -8226660113177098359
+    second: race-human-hair-5_14
+  - first:
+      213: -7751629123455016061
+    second: race-human-hair-5_15
+  - first:
+      213: 5546169415404530001
+    second: race-human-hair-5_16
+  - first:
+      213: 6451218212630790826
+    second: race-human-hair-5_17
+  - first:
+      213: -724029996561679832
+    second: race-human-hair-5_18
+  - first:
+      213: 8167648096059949913
+    second: race-human-hair-5_19
+  - first:
+      213: -9076671935093215240
+    second: race-human-hair-5_20
+  - first:
+      213: -1904610988717317235
+    second: race-human-hair-5_21
+  - first:
+      213: 2864374475406953326
+    second: race-human-hair-5_22
+  - first:
+      213: -7991739551673451520
+    second: race-human-hair-5_23
+  - first:
+      213: 2789186570553090365
+    second: race-human-hair-5_24
+  - first:
+      213: 7045278384928118503
+    second: race-human-hair-5_25
+  - first:
+      213: -7417230868705418887
+    second: race-human-hair-5_26
+  - first:
+      213: 7257852544046108200
+    second: race-human-hair-5_27
+  - first:
+      213: 3664506516765115130
+    second: race-human-hair-5_28
+  - first:
+      213: 5030910757150158505
+    second: race-human-hair-5_29
+  - first:
+      213: -5703581414989994612
+    second: race-human-hair-5_30
+  - first:
+      213: -2206451077681861405
+    second: race-human-hair-5_31
+  - first:
+      213: 967843622869361935
+    second: race-human-hair-5_32
+  - first:
+      213: -4640847426806252586
+    second: race-human-hair-5_33
+  - first:
+      213: -8702757760793786613
+    second: race-human-hair-5_34
+  - first:
+      213: 5106738962620187956
+    second: race-human-hair-5_35
+  - first:
+      213: 5895016458395323929
+    second: race-human-hair-5_36
+  - first:
+      213: -584129480536260206
+    second: race-human-hair-5_37
+  - first:
+      213: 2186515199652681462
+    second: race-human-hair-5_38
+  - first:
+      213: 7279646301408923991
+    second: race-human-hair-5_39
+  - first:
+      213: -21752239495916098
+    second: race-human-hair-5_40
+  - first:
+      213: 4018804697448899327
+    second: race-human-hair-5_41
+  - first:
+      213: 5413050848775044217
+    second: race-human-hair-5_42
+  - first:
+      213: 2407984260975680762
+    second: race-human-hair-5_43
+  - first:
+      213: 4211793891463919599
+    second: race-human-hair-5_44
+  - first:
+      213: -3760736738963097950
+    second: race-human-hair-5_45
+  - first:
+      213: 6223344049700467898
+    second: race-human-hair-5_46
+  - first:
+      213: -1678667525422719611
+    second: race-human-hair-5_47
+  - first:
+      213: 1527544750243647437
+    second: race-human-hair-5_48
+  - first:
+      213: -8344995715036443866
+    second: race-human-hair-5_49
+  - first:
+      213: -9173173304725517254
+    second: race-human-hair-5_50
+  - first:
+      213: -1747970591688608380
+    second: race-human-hair-5_51
+  - first:
+      213: -8419154787439457779
+    second: race-human-hair-5_52
+  - first:
+      213: 8153214014462164244
+    second: race-human-hair-5_53
+  - first:
+      213: -4411403437564703377
+    second: race-human-hair-5_54
+  - first:
+      213: -7432540491104567265
+    second: race-human-hair-5_55
+  - first:
+      213: -228584411284379893
+    second: race-human-hair-5_56
+  - first:
+      213: 4473222694712211657
+    second: race-human-hair-5_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: race-human-hair-5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 145
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27184ce16c2f43060800000000000000
+      internalID: 6932432659163677042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 121
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a99b12f7b05f4500800000000000000
+      internalID: 382613244320913830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 122
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d16c53ea58e72e0800000000000000
+      internalID: -2126114990799315696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 121
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d669b99799225120800000000000000
+      internalID: 2401027282437760725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c483d49742a88830800000000000000
+      internalID: 4073684291279881410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 101
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e261fafd9c1337060800000000000000
+      internalID: 6949953393073788462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 100
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd782fa6c0a024e0800000000000000
+      internalID: -2008428658604605987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 100
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db41c8caa4befd5a0800000000000000
+      internalID: -6494213431689997123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 101
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952184dd3b7ada950800000000000000
+      internalID: 6462005431300002393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 100
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e1c59a9d291d000800000000000000
+      internalID: 58989733679472269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 100
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd116c70aa7bd440800000000000000
+      internalID: 4961694244178828787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 101
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3228917cf3ecbc7d0800000000000000
+      internalID: -2896995161964183005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 100
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d742edc2356aa70800000000000000
+      internalID: 8837842770931776926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_13
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 100
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65202f14f97acd040800000000000000
+      internalID: 4673794815751750230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_14
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 101
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987443ab63805dd80800000000000000
+      internalID: -8226660113177098359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_15
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 100
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38324e1d16eac6490800000000000000
+      internalID: -7751629123455016061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159a25dc2b3f7fc40800000000000000
+      internalID: 5546169415404530001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 85
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2836cc8c4578950800000000000000
+      internalID: 6451218212630790826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_18
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 84
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ab630ed8ab3f5f0800000000000000
+      internalID: -724029996561679832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_19
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 84
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9538c085ba0595170800000000000000
+      internalID: 8167648096059949913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_20
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 85
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffe20e17fe290280800000000000000
+      internalID: -9076671935093215240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_21
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 84
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83e23695667195e0800000000000000
+      internalID: -1904610988717317235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_22
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 84
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bc356c86d40c720800000000000000
+      internalID: 2864374475406953326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_23
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 85
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c70154833a71190800000000000000
+      internalID: -7991739551673451520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_24
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 84
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d316b1e786e25b620800000000000000
+      internalID: 2789186570553090365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 84
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6d0651d5bd5c160800000000000000
+      internalID: 7045278384928118503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 85
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97160c5b2d3b01990800000000000000
+      internalID: -7417230868705418887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 84
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e88006f6219b460800000000000000
+      internalID: 7257852544046108200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 145
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af283e8f241fad230800000000000000
+      internalID: 3664506516765115130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 68
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae60a0cda261d540800000000000000
+      internalID: 5030910757150158505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 69
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8560040ceec8d0b0800000000000000
+      internalID: -5703581414989994612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_31
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 68
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecae746f6c1161e0800000000000000
+      internalID: -2206451077681861405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 192
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05614ba5a87e6d00800000000000000
+      internalID: 967843622869361935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 34
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db7d648ad5689fb0800000000000000
+      internalID: -4640847426806252586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_34
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 34
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07cc9dfce7993780800000000000000
+      internalID: -8702757760793786613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 34
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4358f93a708ced640800000000000000
+      internalID: 5106738962620187956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 34
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e0cbb5c3e4fc150800000000000000
+      internalID: 5895016458395323929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2918dc11551c4e7f0800000000000000
+      internalID: -584129480536260206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_38
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 18
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f65a4b4dff085e10800000000000000
+      internalID: 2186515199652681462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75117fdedbf760560800000000000000
+      internalID: 7279646301408923991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_40
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 33
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5d6c31478b2bff0800000000000000
+      internalID: -21752239495916098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_41
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 18
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2ec1d6499a5c730800000000000000
+      internalID: 4018804697448899327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_42
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 33
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cfc5041150f1b40800000000000000
+      internalID: 5413050848775044217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 33
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcdf246de0ea6120800000000000000
+      internalID: 2407984260975680762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_44
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 18
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7fddfaa3c437a30800000000000000
+      internalID: 4211793891463919599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 33
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6f7547cdd2fcbc0800000000000000
+      internalID: -3760736738963097950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 33
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4ff65c072cd5650800000000000000
+      internalID: 6223344049700467898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_47
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 18
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58dd13397cc24b8e0800000000000000
+      internalID: -1678667525422719611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_48
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 33
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf09c86bdde23510800000000000000
+      internalID: 1527544750243647437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b88116c9e903c80800000000000000
+      internalID: -8344995715036443866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c4dbc1b7752b080800000000000000
+      internalID: -9173173304725517254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_51
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 17
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485329c0206fdb7e0800000000000000
+      internalID: -1747970591688608380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_52
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 17
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a44a1d357292b80800000000000000
+      internalID: -8419154787439457779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_53
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 17
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41df0c5d2f8062170800000000000000
+      internalID: 8153214014462164244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_54
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 17
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6dc40732fb87c2c0800000000000000
+      internalID: -4411403437564703377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_55
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 17
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1041097dcf4ad890800000000000000
+      internalID: -7432540491104567265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_56
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 17
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07e33460b7e3dcf0800000000000000
+      internalID: -228584411284379893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: race-human-hair-5_57
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 17
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c879873754141e30800000000000000
+      internalID: 4473222694712211657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      race-human-hair-5_0: 6932432659163677042
+      race-human-hair-5_1: 382613244320913830
+      race-human-hair-5_10: 4961694244178828787
+      race-human-hair-5_11: -2896995161964183005
+      race-human-hair-5_12: 8837842770931776926
+      race-human-hair-5_13: 4673794815751750230
+      race-human-hair-5_14: -8226660113177098359
+      race-human-hair-5_15: -7751629123455016061
+      race-human-hair-5_16: 5546169415404530001
+      race-human-hair-5_17: 6451218212630790826
+      race-human-hair-5_18: -724029996561679832
+      race-human-hair-5_19: 8167648096059949913
+      race-human-hair-5_2: -2126114990799315696
+      race-human-hair-5_20: -9076671935093215240
+      race-human-hair-5_21: -1904610988717317235
+      race-human-hair-5_22: 2864374475406953326
+      race-human-hair-5_23: -7991739551673451520
+      race-human-hair-5_24: 2789186570553090365
+      race-human-hair-5_25: 7045278384928118503
+      race-human-hair-5_26: -7417230868705418887
+      race-human-hair-5_27: 7257852544046108200
+      race-human-hair-5_28: 3664506516765115130
+      race-human-hair-5_29: 5030910757150158505
+      race-human-hair-5_3: 2401027282437760725
+      race-human-hair-5_30: -5703581414989994612
+      race-human-hair-5_31: -2206451077681861405
+      race-human-hair-5_32: 967843622869361935
+      race-human-hair-5_33: -4640847426806252586
+      race-human-hair-5_34: -8702757760793786613
+      race-human-hair-5_35: 5106738962620187956
+      race-human-hair-5_36: 5895016458395323929
+      race-human-hair-5_37: -584129480536260206
+      race-human-hair-5_38: 2186515199652681462
+      race-human-hair-5_39: 7279646301408923991
+      race-human-hair-5_4: 4073684291279881410
+      race-human-hair-5_40: -21752239495916098
+      race-human-hair-5_41: 4018804697448899327
+      race-human-hair-5_42: 5413050848775044217
+      race-human-hair-5_43: 2407984260975680762
+      race-human-hair-5_44: 4211793891463919599
+      race-human-hair-5_45: -3760736738963097950
+      race-human-hair-5_46: 6223344049700467898
+      race-human-hair-5_47: -1678667525422719611
+      race-human-hair-5_48: 1527544750243647437
+      race-human-hair-5_49: -8344995715036443866
+      race-human-hair-5_5: 6949953393073788462
+      race-human-hair-5_50: -9173173304725517254
+      race-human-hair-5_51: -1747970591688608380
+      race-human-hair-5_52: -8419154787439457779
+      race-human-hair-5_53: 8153214014462164244
+      race-human-hair-5_54: -4411403437564703377
+      race-human-hair-5_55: -7432540491104567265
+      race-human-hair-5_56: -228584411284379893
+      race-human-hair-5_57: 4473222694712211657
+      race-human-hair-5_6: -2008428658604605987
+      race-human-hair-5_7: -6494213431689997123
+      race-human-hair-5_8: 6462005431300002393
+      race-human-hair-5_9: 58989733679472269
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
