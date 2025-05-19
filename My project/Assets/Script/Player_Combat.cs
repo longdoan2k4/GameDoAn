@@ -3,7 +3,7 @@ using UnityEngine;
 public class Player_Combat : MonoBehaviour
 {
     public Transform attackPonit;
-    public float weaponRange ;
+    public float weaponRange = 1;
     public LayerMask enemyLayer;
     public int damage = 1;
 
@@ -24,18 +24,30 @@ public class Player_Combat : MonoBehaviour
         {
             anim.SetBool("isAttacking", true);
 
-            Collider2D[] enemies = Physics2D.OverlapCircleAll(attackPonit.position, weaponRange, enemyLayer);
 
-            if (enemies.Length > 0)
-            {
-                enemies[0].GetComponent<Enemy_Health>().ChangeHealth(-damage);
-            }
 
             timer = cooldown;
         }
     }
+
+    public void DealDamage()
+    {
+        Collider2D[] enemies = Physics2D.OverlapCircleAll(attackPonit.position, weaponRange, enemyLayer);
+
+        if (enemies.Length > 0)
+        {
+            enemies[0].GetComponent<Enemy_Health>().ChangeHealth(-damage);
+        }
+    }
+
     public void FinishAttacking()
     {
         anim.SetBool("isAttacking", false);
+    }
+
+    public void OnDrawGizmosSelected()
+    {
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(attackPonit.position, weaponRange);
     }
 }

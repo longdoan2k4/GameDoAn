@@ -35564,7 +35564,7 @@ Transform:
   m_GameObject: {fileID: 411510491}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.41, y: -0.38, z: 0}
+  m_LocalPosition: {x: -0.45, y: -0.25, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -36411,8 +36411,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movespeed: 4
-  dashBoots: 20
-  dashTime: 0.2
+  dashBoots: 5
+  dashTime: 0.1
   ghostEffect: {fileID: 8334002101676378373, guid: f68c2afd62aa75149b2960cb104e25a7, type: 3}
   ghostDelaySeconds: 0.04
   animator: {fileID: 0}
@@ -36432,7 +36432,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   attackPonit: {fileID: 411510492}
-  weaponRange: 0
+  weaponRange: 0.7
   enemyLayer:
     serializedVersion: 2
     m_Bits: 128
@@ -69345,6 +69345,37 @@ Transform:
   - {fileID: 561619057}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &955473336
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 955473337}
+  m_Layer: 7
+  m_Name: DetectionPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &955473337
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 955473336}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 2.7, y: -0.19, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1048427225}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1048427217
 GameObject:
   m_ObjectHideFlags: 0
@@ -69382,6 +69413,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 3
+  attackRange: 0.8
+  attackCoolDown: 3
+  playerDetectRange: 5
+  detectionPoint: {fileID: 955473337}
+  playerLayer:
+    serializedVersion: 2
+    m_Bits: 64
   enemyState: 0
 --- !u!114 &1048427219
 MonoBehaviour:
@@ -69411,7 +69449,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   damage: 1
   attackPoint: {fileID: 1261630653}
-  weaponRange: 1
+  weaponRange: 0.8
+  knockbackForce: 10
+  stunTime: 0.5
   playerLayer:
     serializedVersion: 2
     m_Bits: 64
@@ -69485,8 +69525,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.024567187, y: 0.03462863}
-  m_Size: {x: 1.0648006, y: 1.6829944}
+  m_Offset: {x: 0.0066167116, y: -0.08653712}
+  m_Size: {x: 0.8134937, y: 1.2611575}
   m_Direction: 0
 --- !u!50 &1048427223
 Rigidbody2D:
@@ -69584,6 +69624,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1261630653}
+  - {fileID: 955473337}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &1048427226

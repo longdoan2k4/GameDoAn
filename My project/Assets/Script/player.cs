@@ -20,7 +20,9 @@ public class player : MonoBehaviour
     public Player_Combat player_Combat;
 
     public Vector3 moveInput;
-    
+
+    private bool isKnockedBack;
+
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -30,11 +32,22 @@ public class player : MonoBehaviour
 
     private void Update()
     {
-        moveInput.x = Input.GetAxis("Horizontal");
-        moveInput.y = Input.GetAxis("Vertical");
-        transform.position += moveInput * movespeed * Time.deltaTime;
+        if (Input.GetButtonDown("CharStab"))
+        {
+            player_Combat.Attack();
+        }
+    }
 
-        animator.SetFloat("Speed", moveInput.sqrMagnitude);
+    private void FixedUpdate()
+    {
+        if (isKnockedBack == false)
+        {
+            moveInput.x = Input.GetAxis("Horizontal");
+            moveInput.y = Input.GetAxis("Vertical");
+            transform.position += moveInput * movespeed * Time.deltaTime;
+
+            animator.SetFloat("Speed", moveInput.sqrMagnitude);
+        }
 
         if (Input.GetKeyDown(KeyCode.Space) && _dashTime <= 0 && isDashing == false)
         {
@@ -67,11 +80,7 @@ public class player : MonoBehaviour
                 transform.localScale = new Vector3(1, 1, 0);
             }
         }
-        if(Input.GetButtonDown("CharStab"))
-        {
-            player_Combat.Attack();
-        }
-        
+
 
     }
 
@@ -94,26 +103,42 @@ public class player : MonoBehaviour
     }
 
     IEnumerator DashEffectCoroutine()
-{
-    while (isDashing)
     {
-        // Tạo ghost tại vị trí nhân vật
-        GameObject ghost = Instantiate(ghostEffect, transform.position, Quaternion.identity);
-        
-        // Cập nhật sprite của ghost từ nhân vật
-        SpriteRenderer ghostSR = ghost.GetComponent<SpriteRenderer>();
-        if (ghostSR != null)
+        while (isDashing)
         {
-            ghostSR.sprite = characterSR.sprite; // Lấy sprite hiện tại của nhân vật
+            // Tạo ghost tại vị trí nhân vật
+            GameObject ghost = Instantiate(ghostEffect, transform.position, Quaternion.identity);
+
+            // Cập nhật sprite của ghost từ nhân vật
+            SpriteRenderer ghostSR = ghost.GetComponent<SpriteRenderer>();
+            if (ghostSR != null)
+            {
+                ghostSR.sprite = characterSR.sprite; // Lấy sprite hiện tại của nhân vật
+            }
+
+            // 📌 Đảm bảo ghost quay đầu đúng hướng nhân vật
+            ghost.transform.localScale = transform.localScale;
+
+            // Xóa ghost sau 0.5s để tránh tràn bộ nhớ
+            Destroy(ghost, 0.5f);
+
+            yield return new WaitForSeconds(ghostDelaySeconds);
         }
-
-        // 📌 Đảm bảo ghost quay đầu đúng hướng nhân vật
-        ghost.transform.localScale = transform.localScale;
-
-        // Xóa ghost sau 0.5s để tránh tràn bộ nhớ
-        Destroy(ghost, 0.5f);
-
-        yield return new WaitForSeconds(ghostDelaySeconds);
     }
-}
+
+    public void KnockBack(Transform enemy, float force, float stunTime)
+    {
+        isKnockedBack = true;
+        Vector2 direction = (transform.position - enemy.position).normalized;
+        rb.linearVelocity = direction * force;
+        StartCoroutine(KnockbackCouter(stunTime));
+    }
+    
+    IEnumerator KnockbackCouter(float stunTime)
+    {
+        yield return new WaitForSeconds(stunTime);
+        rb.linearVelocity = Vector2.zero;
+        isKnockedBack = false;
+    }
+
 }
