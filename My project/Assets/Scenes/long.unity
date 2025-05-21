@@ -35816,7 +35816,7 @@ Transform:
   m_GameObject: {fileID: 411510491}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.45, y: -0.25, z: 0}
+  m_LocalPosition: {x: -0.34, y: -0.31, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -36745,7 +36745,7 @@ SpriteRenderer:
   m_SortingOrder: 2
   m_Sprite: {fileID: 3604202040009161566, guid: 24f29ad1ae91cd74da271313a143faea, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
+  m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 0.46875, y: 0.84375}
@@ -36877,15 +36877,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e579422fadb9a34f8cc3b0ed8106c73, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movespeed: 4
-  dashBoots: 5
-  dashTime: 0.1
-  ghostEffect: {fileID: 8334002101676378373, guid: f68c2afd62aa75149b2960cb104e25a7, type: 3}
-  ghostDelaySeconds: 0.04
-  animator: {fileID: 0}
-  characterSR: {fileID: 0}
+  speed: 5
+  facingDirection: -1
+  anim: {fileID: 561619060}
   player_Combat: {fileID: 561619065}
-  moveInput: {x: 0, y: 0, z: 0}
 --- !u!114 &561619065
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36899,7 +36894,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   attackPonit: {fileID: 411510492}
-  weaponRange: 0.7
+  weaponRange: 0.3
+  knockbackForce: 20
+  knockbackTime: 0.15
+  stunTime: 0.5
   enemyLayer:
     serializedVersion: 2
     m_Bits: 128
@@ -69904,7 +69902,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -70516,7 +70514,7 @@ Transform:
   m_GameObject: {fileID: 1048427217}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -961.45, y: -544.57, z: 0}
+  m_LocalPosition: {x: -935.98, y: -543.34, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -70648,6 +70646,7 @@ GameObject:
   - component: {fileID: 1210468846}
   - component: {fileID: 1210468845}
   - component: {fileID: 1210468844}
+  - component: {fileID: 1210468853}
   m_Layer: 7
   m_Name: Blue_Slime
   m_TagString: GameController
@@ -70896,7 +70895,7 @@ Transform:
   m_GameObject: {fileID: 1210468843}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -959.8, y: -547.88, z: 0}
+  m_LocalPosition: {x: -963.5, y: -547.22, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -70904,6 +70903,18 @@ Transform:
   - {fileID: 1625407078}
   m_Father: {fileID: 243369600}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1210468853
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1210468843}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 813d3ce06966efe4b84c30be26264e0f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1219118739
 GameObject:
   m_ObjectHideFlags: 0
@@ -71035,10 +71046,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 42db2df60a2e02546820fc9e445a93e8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  teleportCanvas: {fileID: 0}
+  teleportCanvas: {fileID: 223939413}
   targetLv1: {fileID: 1765708916}
   targetLv5: {fileID: 1573800891}
-  player: {fileID: 0}
+  player: {fileID: 561619052}
 --- !u!61 &1219118744
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -71681,8 +71692,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e35679399a889c543825dfba672ac6f5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  teleportCanvas: {fileID: 0}
-  targetLevel: {fileID: 0}
+  teleportCanvas: {fileID: 1453603813}
+  targetLevel: {fileID: 1765708916}
   openKey: 27
 --- !u!4 &1453603815
 Transform:
@@ -87739,7 +87750,7 @@ Transform:
   m_GameObject: {fileID: 1868524351}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 38.68, y: -5.192079, z: -0.085152715}
+  m_LocalPosition: {x: 12.11, y: 5.86, z: -0.085152715}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
