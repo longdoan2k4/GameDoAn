@@ -6,21 +6,18 @@ using TMPro;
 
 public class PlayerHealth : MonoBehaviour
 {
-    public int currentHealth;
-    public int maxHealth;
-
     public TMP_Text healtext;
 
     public void Start()
     {
-        healtext.text = "HP:" + currentHealth + " / " + maxHealth;
+        healtext.text = "HP:" + StartsManager.Instance.currentHealth + " / " + StartsManager.Instance.maxHealth;
     }
     public void ChangeHealth(int amount)
     {
-        currentHealth += amount;
-        healtext.text = "HP:" + currentHealth + " / " + maxHealth;
+        StartsManager.Instance.currentHealth += amount;
+        healtext.text = "HP:" + StartsManager.Instance.currentHealth + " / " + StartsManager.Instance.maxHealth;
         
-        if (currentHealth <= 0)
+        if (StartsManager.Instance.currentHealth <= 0)
         {
             gameObject.SetActive(false);
         }

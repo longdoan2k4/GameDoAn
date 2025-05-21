@@ -35816,7 +35816,7 @@ Transform:
   m_GameObject: {fileID: 411510491}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.34, y: -0.31, z: 0}
+  m_LocalPosition: {x: 0.327, y: -0.338, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -36894,7 +36894,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   attackPonit: {fileID: 411510492}
-  weaponRange: 0.3
+  weaponRange: 0.15
   knockbackForce: 20
   knockbackTime: 0.15
   stunTime: 0.5
@@ -70384,8 +70384,8 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 2.2966037, y: 0.038384438}
-  m_Radius: 4.253448
+  m_Offset: {x: 0.022889137, y: 0.038384438}
+  m_Radius: 0.5902376
 --- !u!70 &1048427222
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -70765,8 +70765,8 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 2.2966037, y: 0.038384438}
-  m_Radius: 4.253448
+  m_Offset: {x: 0.028591514, y: -0.07564968}
+  m_Radius: 0.62969774
 --- !u!70 &1210468849
 CapsuleCollider2D:
   m_ObjectHideFlags: 0

@@ -5,7 +5,6 @@ using UnityEditor.Tilemaps;
 
 public class player : MonoBehaviour
 {
-    public float speed = 5f;
     public int facingDirection = 1;
     private Rigidbody2D rb;
     public Animator anim;
@@ -44,7 +43,7 @@ public class player : MonoBehaviour
             anim.SetFloat("horizontal", Mathf.Abs(horizontal));
             anim.SetFloat("vertical", Mathf.Abs(vertical));
 
-            rb.linearVelocity = new Vector2(horizontal, vertical) * speed;
+            rb.linearVelocity = new Vector2(horizontal, vertical) * StartsManager.Instance.speed;
         }
 
     }
