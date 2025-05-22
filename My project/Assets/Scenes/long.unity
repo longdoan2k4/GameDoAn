@@ -151,6 +151,58 @@ Transform:
   - {fileID: 572318090}
   m_Father: {fileID: 1219118740}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &53150365
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 53150367}
+  - component: {fileID: 53150366}
+  m_Layer: 0
+  m_Name: StartsManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &53150366
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 53150365}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86da21aee6270d8479f57cda9ca8bfa2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 1
+  weaponRange: 0.15
+  knockbackForce: 10
+  knockbackTime: 0.15
+  stunTime: 0.5
+  speed: 4
+  maxHealth: 20
+  currentHealth: 20
+--- !u!4 &53150367
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 53150365}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 6.3047857, y: -5.5229774, z: -0.11039424}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &111457820
 GameObject:
   m_ObjectHideFlags: 0
@@ -36877,7 +36929,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e579422fadb9a34f8cc3b0ed8106c73, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
   facingDirection: -1
   anim: {fileID: 561619060}
   player_Combat: {fileID: 561619065}
@@ -36894,14 +36945,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   attackPonit: {fileID: 411510492}
-  weaponRange: 0.15
-  knockbackForce: 20
-  knockbackTime: 0.15
-  stunTime: 0.5
   enemyLayer:
     serializedVersion: 2
     m_Bits: 128
-  damage: 1
   anim: {fileID: 561619060}
   cooldown: 1
 --- !u!114 &561619066
@@ -36916,8 +36962,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d7bebfb378ef897419b161f63ccf9072, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  currentHealth: 20
-  maxHealth: 20
   healtext: {fileID: 798205507}
 --- !u!1 &572318089
 GameObject:
@@ -93446,6 +93490,7 @@ SceneRoots:
   - {fileID: 619394802}
   - {fileID: 851371951}
   - {fileID: 1219118740}
+  - {fileID: 53150367}
   - {fileID: 929405578}
   - {fileID: 1868524352}
   - {fileID: 243369600}
