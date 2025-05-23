@@ -1,8 +1,10 @@
 using UnityEngine;
+using TMPro;
 
 public class StartsManager : MonoBehaviour
 {
     public static StartsManager Instance;
+    public TMP_Text healthText;
 
     [Header("Combat Stats")]
 
@@ -20,6 +22,7 @@ public class StartsManager : MonoBehaviour
     public int currentHealth;
 
 
+
     public void Awake()
     {
         if (Instance == null)
@@ -31,5 +34,11 @@ public class StartsManager : MonoBehaviour
             Destroy(gameObject);
         }
     }
-    
+
+    public void UpdateMaxHealth(int amount)
+    {
+        maxHealth += amount;
+        healthText.text = "HP: " + currentHealth + "/" + maxHealth;
+    }
+
 }

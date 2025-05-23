@@ -22,7 +22,7 @@ public class player : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetButtonDown("CharStab"))
+        if (Input.GetButtonDown("CharStab") && player_Combat.enabled == true)
         {
             player_Combat.Attack();
         }
