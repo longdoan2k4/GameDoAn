@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e57c9ec3e98e48046ab65e597dc8c804, type: 3}
   m_Name: Fire Magic
   m_EditorClassIdentifier: 
-  skillName: 
-  maxLevel: 0
-  skillIcon: {fileID: 0}
+  skillName: Fire
+  maxLevel: 1
+  skillIcon: {fileID: 6734237056663082788, guid: 03c6e5cf514f5b8419e726c0ad615d23, type: 3}

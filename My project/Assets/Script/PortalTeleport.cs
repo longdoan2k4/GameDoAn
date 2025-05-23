@@ -36,6 +36,6 @@ public class PortalTeleport : MonoBehaviour
 
     public void CancelTeleport()
     {
-        teleportCanvas.SetActive(false);
+        teleportCanvas.SetActive(false); 
     }
 }
