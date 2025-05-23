@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e57c9ec3e98e48046ab65e597dc8c804, type: 3}
   m_Name: Speed Boost
   m_EditorClassIdentifier: 
-  skillName: Heal
+  skillName: Speed
   maxLevel: 1
   skillIcon: {fileID: 3112270144108611900, guid: 03cc90f21be3e2549a5d28a5b45db72e, type: 3}
